@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models
+END
+OpenPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/OpenPublisher.java
+END
+RosterAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/RosterAccess.java
+END
+AccessModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/AccessModel.java
+END
+OnlyPublishers.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/OnlyPublishers.java
+END
+OpenAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/OpenAccess.java
+END
+PresenceAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/PresenceAccess.java
+END
+OnlySubscribers.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/OnlySubscribers.java
+END
+AuthorizeAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/AuthorizeAccess.java
+END
+PublisherModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/PublisherModel.java
+END
+WhitelistAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/WhitelistAccess.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/pubsub/models/package.html
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/Logger.java
+END
+Priority.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/Priority.java
+END
+ContextMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/ContextMap.java
+END
+LogEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/LogEvent.java
+END
+ErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/ErrorHandler.java
+END
+LogTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/LogTarget.java
+END
+ErrorAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/ErrorAware.java
+END
+FilterTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/FilterTarget.java
+END
+Hierarchy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/Hierarchy.java
+END

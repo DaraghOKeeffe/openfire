@@ -1,0 +1,126 @@
+10
+
+dir
+93
+http://4c110.ucc.ie/svn/FAME_Security/openfire_src/build
+http://4c110.ucc.ie/svn/FAME_Security
+
+
+
+2010-07-27T14:30:25.310488Z
+4
+wmacadams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c2f98f62-4a8c-0410-97ed-f3649ed030c0
+
+resin
+dir
+
+pkg
+dir
+
+debian
+dir
+
+build.properties.template
+file
+
+
+
+
+2012-06-11T21:56:11.000000Z
+b677616a9e8c5907d50b81de20d79cfd
+2010-07-27T14:30:25.310488Z
+4
+wmacadams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+727
+
+lib
+dir
+
+osx
+dir
+
+projects
+dir
+
+solaris
+dir
+
+installer
+dir
+
+rpm
+dir
+
+wildfireHome
+dir
+
+build.xml
+file
+
+
+
+
+2012-06-11T21:56:11.000000Z
+44c46cf163d7de7e1d062e807cedfd9e
+2010-07-27T14:30:25.310488Z
+4
+wmacadams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+81458
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/filter
+END
+AbstractFilterTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/filter/AbstractFilterTarget.java
+END
+PriorityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/filter/PriorityFilter.java
+END

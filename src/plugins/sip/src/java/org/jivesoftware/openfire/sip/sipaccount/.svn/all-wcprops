@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount
+END
+SipRegisterStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount/SipRegisterStatus.java
+END
+SipAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount/SipAccount.java
+END
+SipAccountDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount/SipAccountDAO.java
+END
+SipComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount/SipComponent.java
+END

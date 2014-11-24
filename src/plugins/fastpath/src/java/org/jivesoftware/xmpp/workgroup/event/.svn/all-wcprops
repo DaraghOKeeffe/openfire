@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/event
+END
+WorkgroupEventAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/event/WorkgroupEventAdapter.java
+END
+WorkgroupEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/event/WorkgroupEventListener.java
+END
+WorkgroupEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/event/WorkgroupEventDispatcher.java
+END

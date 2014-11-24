@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/database
+END
+fastpath_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/database/fastpath_db2.sql
+END
+fastpath_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/database/fastpath_hsqldb.sql
+END
+fastpath_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/database/fastpath_postgresql.sql
+END
+fastpath_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/database/fastpath_mysql.sql
+END
+fastpath_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/database/fastpath_oracle.sql
+END
+fastpath_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/database/fastpath_sqlserver.sql
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco
+END
+DiscoItemsProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/DiscoItemsProvider.html
+END
+DiscoItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/DiscoItem.html
+END
+ServerFeaturesProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/ServerFeaturesProvider.html
+END
+ServerIdentitiesProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/ServerIdentitiesProvider.html
+END
+ServerItemsProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/ServerItemsProvider.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/package-frame.html
+END
+IQDiscoInfoHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/IQDiscoInfoHandler.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/package-summary.html
+END
+DiscoServerItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/DiscoServerItem.html
+END
+DiscoInfoProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/DiscoInfoProvider.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/package-tree.html
+END
+IQDiscoItemsHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/IQDiscoItemsHandler.html
+END
+UserIdentitiesProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/UserIdentitiesProvider.html
+END
+UserItemsProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/disco/UserItemsProvider.html
+END

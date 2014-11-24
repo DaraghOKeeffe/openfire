@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/admin
+END
+AdminManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/admin/AdminManager.java
+END
+AdminProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/admin/AdminProvider.java
+END
+DefaultAdminProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/admin/DefaultAdminProvider.java
+END

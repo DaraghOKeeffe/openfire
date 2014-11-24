@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/security
+END
+CredentialsCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/security/CredentialsCache.java
+END
+SipSecurityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/security/SipSecurityException.java
+END
+CredentialsCacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/security/CredentialsCacheEntry.java
+END
+MessageDigestAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/security/MessageDigestAlgorithm.java
+END
+UserCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/security/UserCredentials.java
+END
+SipSecurityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/security/SipSecurityManager.java
+END

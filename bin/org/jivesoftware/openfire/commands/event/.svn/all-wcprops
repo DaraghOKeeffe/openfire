@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event
+END
+UserModified.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/UserModified.java
+END
+VCardModified.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/VCardModified.java
+END
+GroupCreated.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/GroupCreated.java
+END
+GroupMemberAdded.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/GroupMemberAdded.java
+END
+GroupMemberRemoved.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/GroupMemberRemoved.java
+END
+UserCreated.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/UserCreated.java
+END
+GroupAdminAdded.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/GroupAdminAdded.java
+END
+GroupAdminRemoved.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/GroupAdminRemoved.java
+END
+VCardCreated.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/VCardCreated.java
+END
+GroupDeleting.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/GroupDeleting.java
+END
+UserDeleting.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/UserDeleting.java
+END
+VCardDeleting.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/VCardDeleting.java
+END
+GroupModified.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/commands/event/GroupModified.java
+END

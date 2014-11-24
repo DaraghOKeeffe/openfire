@@ -1,0 +1,10 @@
+ant plugin -Dplugin=trustManagement
+
+http://www.igniterealtime.org/builds/openfire/docs/latest/documentation/source-build.html
+
+http://www.igniterealtime.org/support/articles/motd_plugin.jsp
+
+http://www.igniterealtime.org/community/blogs/ignite/2007/01/16/so-you-want-to-write-a-plugin/
+
+http://www.igniterealtime.org/builds/openfire/docs/latest/documentation/plugin-dev-guide.html
+

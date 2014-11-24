@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output
+END
+AsyncLogTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/AsyncLogTarget.java
+END
+AbstractTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/AbstractTarget.java
+END
+AbstractOutputTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/AbstractOutputTarget.java
+END

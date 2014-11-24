@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/web
+END
+spark-download.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/web/spark-download.jsp
+END
+create-bookmark.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/web/create-bookmark.jsp
+END
+url-bookmarks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/web/url-bookmarks.jsp
+END
+client-features.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/web/client-features.jsp
+END
+permitted-clients.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/web/permitted-clients.jsp
+END
+confirm-bookmark-delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/web/confirm-bookmark-delete.jsp
+END
+spark-form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/web/spark-form.jsp
+END
+groupchat-bookmarks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/web/groupchat-bookmarks.jsp
+END

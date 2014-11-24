@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio
+END
+ComponentConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/ComponentConnectionHandler.java
+END
+XMPPEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/XMPPEncoder.java
+END
+NIOConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/NIOConnection.java
+END
+MultiplexerConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/MultiplexerConnectionHandler.java
+END
+ByteBufferWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/ByteBufferWriter.java
+END
+XMPPCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/XMPPCodecFactory.java
+END
+XMPPDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/XMPPDecoder.java
+END
+ClientConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/ClientConnectionHandler.java
+END
+ConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/ConnectionHandler.java
+END
+XMLLightweightParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/nio/XMLLightweightParser.java
+END

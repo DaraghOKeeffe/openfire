@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/util
+END
+JettyLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/util/JettyLog.java
+END
+StackIntrospector.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/util/StackIntrospector.java
+END
+CommonsLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/util/CommonsLogFactory.java
+END
+DefaultErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/util/DefaultErrorHandler.java
+END
+LoggerOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/util/LoggerOutputStream.java
+END
+OutputStreamLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/util/OutputStreamLogger.java
+END

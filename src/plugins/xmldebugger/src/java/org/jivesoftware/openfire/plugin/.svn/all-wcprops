@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/xmldebugger/src/java/org/jivesoftware/openfire/plugin
+END
+DebuggerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/xmldebugger/src/java/org/jivesoftware/openfire/plugin/DebuggerPlugin.java
+END
+InterpretedXMLPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/xmldebugger/src/java/org/jivesoftware/openfire/plugin/InterpretedXMLPrinter.java
+END
+RawPrintFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/xmldebugger/src/java/org/jivesoftware/openfire/plugin/RawPrintFilter.java
+END

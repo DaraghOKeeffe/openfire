@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet
+END
+Roster.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Roster.html
+END
+PacketError.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/PacketError.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/package-frame.html
+END
+Presence.Show.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Presence.Show.html
+END
+Presence.Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Presence.Type.html
+END
+Message.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Message.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/package-tree.html
+END
+IQ.Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/IQ.Type.html
+END
+StreamError.Condition.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/StreamError.Condition.html
+END
+Roster.Ask.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Roster.Ask.html
+END
+Roster.Subscription.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Roster.Subscription.html
+END
+PacketError.Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/PacketError.Type.html
+END
+Presence.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Presence.html
+END
+PacketExtension.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/PacketExtension.html
+END
+Message.Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Message.Type.html
+END
+StreamError.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/StreamError.html
+END
+PacketError.Condition.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/PacketError.Condition.html
+END
+JID.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/JID.html
+END
+Packet.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Packet.html
+END
+IQ.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/IQ.html
+END
+Roster.Item.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/packet/Roster.Item.html
+END

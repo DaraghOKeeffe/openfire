@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive
+END
+ArchiveInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ArchiveInterceptor.java
+END
+ArchiveIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ArchiveIndexer.java
+END
+ConversationParticipation.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ConversationParticipation.java
+END
+ConversationEventsQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ConversationEventsQueue.java
+END
+ConversationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ConversationManager.java
+END
+GroupConversationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/GroupConversationInterceptor.java
+END
+ArchiveSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ArchiveSearch.java
+END
+ConversationPDFServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ConversationPDFServlet.java
+END
+Conversation.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/Conversation.java
+END
+ConversationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ConversationEvent.java
+END
+ConversationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ConversationListener.java
+END
+ConversationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ConversationInfo.java
+END
+UserParticipations.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/UserParticipations.java
+END
+ArchivedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ArchivedMessage.java
+END
+ConversationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ConversationUtils.java
+END
+ArchiveSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/ArchiveSearcher.java
+END

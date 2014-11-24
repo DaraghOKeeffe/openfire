@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/22/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules
+END
+RuleOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules/RuleOption.java
+END
+RuleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/FAME_Security/!svn/ver/22/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules/RuleManager.java
+END
+Drop.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules/Drop.java
+END
+RuleManagerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/FAME_Security/!svn/ver/22/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules/RuleManagerProxy.java
+END
+Pass.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules/Pass.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules/Rule.java
+END
+DbRuleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/FAME_Security/!svn/ver/22/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules/DbRuleManager.java
+END
+AbstractRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/FAME_Security/!svn/ver/17/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules/AbstractRule.java
+END
+Reject.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/rules/Reject.java
+END

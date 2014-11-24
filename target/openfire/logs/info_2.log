@@ -1,0 +1,21 @@
+2014.11.03 02:48:50 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/3e5ace31 to kieran@daragh-vpceh1j1e : null
+2014.11.03 02:48:50 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/3e5ace31 to kieran@daragh-vpceh1j1e : Hello
+2014.11.03 02:48:50 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/3e5ace31 to kieran@daragh-vpceh1j1e : null
+2014.11.03 02:49:28 Openfire stopped
+2014.11.03 02:49:28 Server halted
+2014.11.03 02:49:39 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.03 02:49:39 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.03 02:49:40 Openfire 3.6.4 [Nov 3, 2014 2:49:40 AM]
+2014.11.03 02:49:41 Admin console listening at:
+  http://daragh-vpceh1j1e:9090
+  https://daragh-vpceh1j1e:9091
+2014.11.03 02:49:42 Chinese Wall Plugin loaded...
+2014.11.03 02:49:43 Packet Filter loaded...
+2014.11.03 02:49:43 Started server (unencrypted) socket on port: 5269
+2014.11.03 02:49:43 Started plain (unencrypted) socket on port: 5222
+2014.11.03 02:49:43 Started SSL (encrypted) socket on port: 5223
+2014.11.03 02:49:45 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : null
+2014.11.03 02:49:45 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e to kieran@daragh-vpceh1j1e : null
+2014.11.03 02:49:50 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/22036fb5 to kieran@daragh-vpceh1j1e : null
+2014.11.03 02:49:50 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/22036fb5 to kieran@daragh-vpceh1j1e : adgf
+2014.11.03 02:49:50 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/22036fb5 to kieran@daragh-vpceh1j1e : null

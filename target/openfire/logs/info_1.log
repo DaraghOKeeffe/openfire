@@ -1,0 +1,1417 @@
+2014.11.03 02:50:24 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/22036fb5 to kieran@daragh-vpceh1j1e : null
+2014.11.03 02:50:25 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/22036fb5 to kieran@daragh-vpceh1j1e : adfgadfg
+2014.11.03 02:50:25 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/22036fb5 to kieran@daragh-vpceh1j1e : null
+2014.11.03 02:51:51 Openfire stopped
+2014.11.03 02:51:51 Server halted
+2014.11.03 02:52:01 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.03 02:52:01 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.03 02:52:02 Openfire 3.6.4 [Nov 3, 2014 2:52:02 AM]
+2014.11.03 02:52:04 Admin console listening at:
+  http://daragh-vpceh1j1e:9090
+  https://daragh-vpceh1j1e:9091
+2014.11.03 02:52:04 Chinese Wall Plugin loaded...
+2014.11.03 02:52:05 Packet Filter loaded...
+2014.11.03 02:52:06 Started server (unencrypted) socket on port: 5269
+2014.11.03 02:52:06 Started plain (unencrypted) socket on port: 5222
+2014.11.03 02:52:06 Started SSL (encrypted) socket on port: 5223
+2014.11.03 02:52:07 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e to kieran@daragh-vpceh1j1e : null
+2014.11.03 02:52:07 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : null
+2014.11.03 02:52:16 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/26240ac6 to kieran@daragh-vpceh1j1e : null
+2014.11.03 02:52:17 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/26240ac6 to kieran@daragh-vpceh1j1e : aefgsdf
+2014.11.03 02:52:17 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/26240ac6 to kieran@daragh-vpceh1j1e : null
+2014.11.03 02:53:36 Openfire stopped
+2014.11.03 02:53:36 Server halted
+2014.11.07 14:40:58 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.07 14:40:58 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.07 14:40:59 Openfire 3.6.4 [Nov 7, 2014 2:40:59 PM]
+2014.11.07 14:41:01 Admin console listening at:
+  http://daragh-vpceh1j1e:9090
+  https://daragh-vpceh1j1e:9091
+2014.11.07 14:41:01 Chinese Wall Plugin loaded...
+2014.11.07 14:41:03 CHINESEWALL : Dropping from daragh-vpceh1j1e to admin@daragh-vpceh1j1e : A server or plugin update was found: Openfire 3.9.3
+2014.11.07 14:41:03 CHINESEWALL : Dropping from daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : A server or plugin update was found: Openfire 3.9.3
+2014.11.07 14:41:04 Packet Filter loaded...
+2014.11.07 14:41:05 Started server (unencrypted) socket on port: 5269
+2014.11.07 14:41:05 Started plain (unencrypted) socket on port: 5222
+2014.11.07 14:41:05 Started SSL (encrypted) socket on port: 5223
+2014.11.07 14:48:28 Openfire stopped
+2014.11.07 14:48:28 Server halted
+2014.11.07 14:48:48 Openfire 3.6.4 [Nov 7, 2014 2:48:48 PM]
+2014.11.07 14:48:51 Admin console listening at:
+  http://127.0.0.1:9090
+  https://127.0.0.1:9091
+2014.11.07 14:50:29 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.07 14:50:29 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.07 14:50:31 Chinese Wall Plugin loaded...
+2014.11.07 14:50:31 Missing database schema for clientcontrol. Attempting to install...
+2014.11.07 14:50:31 Database update successful.
+2014.11.07 14:50:31 Missing database schema for fastpath. Attempting to install...
+2014.11.07 14:50:33 Database update successful.
+2014.11.07 14:50:34 CHINESEWALL : Dropping from workgroup-demo@conference.daragh-vpceh1j1e to demo@workgroup.daragh-vpceh1j1e/demo : This room is locked from entry until configuration is confirmed.
+2014.11.07 14:50:34 CHINESEWALL : Dropping from workgroup-demo@conference.daragh-vpceh1j1e to demo@workgroup.daragh-vpceh1j1e/demo : This room is now unlocked.
+2014.11.07 14:50:34 CHINESEWALL : Dropping from demo@workgroup.daragh-vpceh1j1e/demo to workgroup-demo@conference.daragh-vpceh1j1e : null
+2014.11.07 14:50:38 Missing database schema for monitoring. Attempting to install...
+2014.11.07 14:50:39 Database update successful.
+2014.11.07 14:50:40 Missing database schema for packetfilter. Attempting to install...
+2014.11.07 14:50:40 Database update successful.
+2014.11.07 14:50:40 Packet Filter loaded...
+2014.11.07 14:50:41 Missing database schema for sip. Attempting to install...
+2014.11.07 14:50:41 Database update successful.
+2014.11.07 14:50:42 Started server (unencrypted) socket on port: 5269
+2014.11.07 14:50:42 Started plain (unencrypted) socket on port: 5222
+2014.11.07 14:50:42 Started SSL (encrypted) socket on port: 5223
+2014.11.07 14:51:04 CHINESEWALL : Dropping from daragh-vpceh1j1e to admin@127.0.0.1 : A server or plugin update was found: Openfire 3.9.3
+2014.11.07 14:52:07 Openfire stopped
+2014.11.07 14:52:07 Server halted
+2014.11.07 14:53:16 Openfire 3.6.4 [Nov 7, 2014 2:53:16 PM]
+2014.11.07 14:53:18 Admin console listening at:
+  http://127.0.0.1:9090
+  https://127.0.0.1:9091
+2014.11.07 14:53:43 Unable to get a connection from the database pool (attempt 1 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:44 Unable to get a connection from the database pool (attempt 2 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 1 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:44 Unable to get a connection from the database pool (attempt 3 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 2 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:44 Unable to get a connection from the database pool (attempt 4 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 2 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:44 Unable to get a connection from the database pool (attempt 5 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 3 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:45 Unable to get a connection from the database pool (attempt 6 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 2 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:45 Unable to get a connection from the database pool (attempt 7 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 1 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:45 Unable to get a connection from the database pool (attempt 8 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:45 Unable to get a connection from the database pool (attempt 9 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 2 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:46 Unable to get a connection from the database pool (attempt 10 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 1 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:53:46 Unable to get a connection from the database pool (attempt 11 out of 10).
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.UnknownHostException
+MESSAGE: [host-name]
+
+STACKTRACE:
+
+java.net.UnknownHostException: [host-name]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1160)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1098)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:246)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 1 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.logicalcobwebs.proxool.DefaultConnectionBuilder.buildConnection(DefaultConnectionBuilder.java:39)
+	at org.logicalcobwebs.proxool.Prototyper.buildConnection(Prototyper.java:159)
+	at org.logicalcobwebs.proxool.ConnectionPool.getConnection(ConnectionPool.java:211)
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:89)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.jivesoftware.database.DefaultConnectionProvider.getConnection(DefaultConnectionProvider.java:75)
+	at org.jivesoftware.database.DbConnectionManager.getConnection(DbConnectionManager.java:104)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp.testConnection(setup_002ddatasource_002dstandard_jsp.java:35)
+	at org.jivesoftware.openfire.admin.setup.setup_002ddatasource_002dstandard_jsp._jspService(setup_002ddatasource_002dstandard_jsp.java:207)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:97)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1093)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.parsePage(PageFilter.java:118)
+	at com.opensymphony.module.sitemesh.filter.PageFilter.doFilter(PageFilter.java:52)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.LocaleFilter.doFilter(LocaleFilter.java:66)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.util.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:42)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.PluginFilter.doFilter(PluginFilter.java:70)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.jivesoftware.admin.AuthCheckFilter.doFilter(AuthCheckFilter.java:146)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1084)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:360)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:726)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:206)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:324)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:505)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:843)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:648)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:211)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:380)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:395)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:488)
+2014.11.07 14:54:18 Chinese Wall Plugin loaded...
+2014.11.07 14:54:18 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.07 14:54:18 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.07 14:54:20 Packet Filter loaded...
+2014.11.07 14:54:21 Started server (unencrypted) socket on port: 5269
+2014.11.07 14:54:21 Started plain (unencrypted) socket on port: 5222
+2014.11.07 14:54:21 Started SSL (encrypted) socket on port: 5223
+2014.11.07 14:58:45 Openfire stopped
+2014.11.07 14:58:45 Server halted
+2014.11.07 15:00:27 Openfire 3.6.4 [Nov 7, 2014 3:00:27 PM]
+2014.11.07 15:00:30 Admin console listening at:
+  http://127.0.0.1:9090
+  https://127.0.0.1:9091
+2014.11.07 15:00:59 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.07 15:00:59 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.07 15:01:10 Chinese Wall Plugin loaded...
+2014.11.07 15:01:11 Packet Filter loaded...
+2014.11.07 15:01:11 Started server (unencrypted) socket on port: 5269
+2014.11.07 15:01:11 Started plain (unencrypted) socket on port: 5222
+2014.11.07 15:01:11 Started SSL (encrypted) socket on port: 5223
+2014.11.07 15:04:05 Openfire stopped
+2014.11.07 15:04:05 Server halted
+2014.11.07 15:04:09 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.07 15:04:09 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.07 15:04:10 Openfire 3.6.4 [Nov 7, 2014 3:04:10 PM]
+2014.11.07 15:04:11 Admin console listening at:
+  http://daragh-vpceh1j1e:9090
+  https://daragh-vpceh1j1e:9091
+2014.11.07 15:04:11 Chinese Wall Plugin loaded...
+2014.11.07 15:04:13 Packet Filter loaded...
+2014.11.07 15:04:13 Started server (unencrypted) socket on port: 5269
+2014.11.07 15:04:13 Started plain (unencrypted) socket on port: 5222
+2014.11.07 15:04:13 Started SSL (encrypted) socket on port: 5223
+2014.11.07 16:38:44 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : null
+2014.11.07 16:38:44 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : null
+2014.11.07 16:38:57 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e/b816fcd to kieran@daragh-vpceh1j1e : dgfdg
+2014.11.07 16:40:19 Chinese Wall Plugin loaded...
+2014.11.07 16:40:23 Openfire stopped
+2014.11.07 16:40:23 Server halted
+2014.11.07 16:40:27 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.07 16:40:27 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.07 16:40:28 Openfire 3.6.4 [Nov 7, 2014 4:40:28 PM]
+2014.11.07 16:40:30 Admin console listening at:
+  http://daragh-vpceh1j1e:9090
+  https://daragh-vpceh1j1e:9091
+2014.11.07 16:40:30 Chinese Wall Plugin loaded...
+2014.11.07 16:40:31 Packet Filter loaded...
+2014.11.07 16:40:32 Started server (unencrypted) socket on port: 5269
+2014.11.07 16:40:32 Started plain (unencrypted) socket on port: 5222
+2014.11.07 16:40:32 Started SSL (encrypted) socket on port: 5223
+2014.11.07 16:40:34 CHINESEWALL : Dropping from daragh@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : null
+2014.11.07 16:40:38 CHINESEWALL : Dropping from kieran@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : hterht
+2014.11.07 16:40:41 CHINESEWALL : Dropping from kieran@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : egertg
+2014.11.07 16:40:41 CHINESEWALL : Dropping from kieran@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : ertge
+2014.11.07 16:40:41 CHINESEWALL : Dropping from kieran@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : rtg
+2014.11.07 16:40:42 CHINESEWALL : Dropping from kieran@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : ertg
+2014.11.07 16:40:42 CHINESEWALL : Dropping from kieran@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : etgetg
+2014.11.07 16:40:43 CHINESEWALL : Dropping from kieran@daragh-vpceh1j1e to daragh@daragh-vpceh1j1e : rtg
+2014.11.07 16:43:48 Openfire stopped
+2014.11.07 16:43:48 Server halted
+2014.11.07 16:45:30 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.07 16:45:30 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.07 16:45:31 Openfire 3.6.4 [Nov 7, 2014 4:45:31 PM]
+2014.11.07 16:45:32 Admin console listening at:
+  http://daragh-vpceh1j1e:9090
+  https://daragh-vpceh1j1e:9091
+2014.11.07 16:45:32 Chinese Wall Plugin loaded...
+2014.11.07 16:45:34 Packet Filter loaded...
+2014.11.07 16:45:34 Started server (unencrypted) socket on port: 5269
+2014.11.07 16:45:34 Started plain (unencrypted) socket on port: 5222
+2014.11.07 16:45:34 Started SSL (encrypted) socket on port: 5223
+2014.11.07 16:45:44 TEST : 
+2014.11.07 16:45:44 TEST : 
+2014.11.07 16:45:44 TEST : 
+2014.11.07 16:45:44 TEST : 
+2014.11.07 16:45:45 TEST : 
+2014.11.07 16:45:45 TEST : 
+2014.11.07 16:46:08 Openfire stopped
+2014.11.07 16:46:08 Server halted
+2014.11.07 16:47:03 Publish-Subscribe domain: pubsub.daragh-vpceh1j1e
+2014.11.07 16:47:03 Multi User Chat domain: conference.daragh-vpceh1j1e
+2014.11.07 16:47:04 Openfire 3.6.4 [Nov 7, 2014 4:47:04 PM]
+2014.11.07 16:47:05 Admin console listening at:
+  http://daragh-vpceh1j1e:9090
+  https://daragh-vpceh1j1e:9091
+2014.11.07 16:47:05 Chinese Wall Plugin loaded...
+2014.11.07 16:47:07 Packet Filter loaded...
+2014.11.07 16:47:07 Started server (unencrypted) socket on port: 5269
+2014.11.07 16:47:07 Started plain (unencrypted) socket on port: 5222
+2014.11.07 16:47:07 Started SSL (encrypted) socket on port: 5223
+2014.11.07 16:47:10 TEST : null
+2014.11.07 16:47:10 TEST : null
+2014.11.07 16:47:10 TEST : null
+2014.11.07 16:47:10 TEST : null

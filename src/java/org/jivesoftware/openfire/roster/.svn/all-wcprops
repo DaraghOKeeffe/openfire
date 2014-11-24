@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/roster
+END
+RosterEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/roster/RosterEventListener.java
+END
+RosterEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/roster/RosterEventDispatcher.java
+END
+RosterItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/roster/RosterItemProvider.java
+END
+RosterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/roster/RosterManager.java
+END
+RosterItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/roster/RosterItem.java
+END
+Roster.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/roster/Roster.java
+END

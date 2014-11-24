@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/vcard
+END
+DefaultVCardProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/vcard/DefaultVCardProvider.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/vcard/package-frame.html
+END
+VCardListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/vcard/VCardListener.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/vcard/package-summary.html
+END
+VCardEventDispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/vcard/VCardEventDispatcher.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/vcard/package-tree.html
+END
+VCardManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/vcard/VCardManager.html
+END
+VCardProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/vcard/VCardProvider.html
+END

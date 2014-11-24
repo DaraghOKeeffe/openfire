@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/bin/extra
+END
+embedded-db.rc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/bin/extra/embedded-db.rc
+END
+embedded-db-viewer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/bin/extra/embedded-db-viewer.bat
+END
+embedded-db-viewer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/bin/extra/embedded-db-viewer.sh
+END
+openfire-launchd-wrapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/bin/extra/openfire-launchd-wrapper.sh
+END
+redhat-postinstall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/bin/extra/redhat-postinstall.sh
+END
+openfired
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/bin/extra/openfired
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster
+END
+ServiceInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/ServiceInfo.html
+END
+RoomAvailableEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/RoomAvailableEvent.html
+END
+UpdateOccupant.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/UpdateOccupant.html
+END
+BroadcastMessageRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/BroadcastMessageRequest.html
+END
+AddMember.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/AddMember.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/package-frame.html
+END
+ServiceRemovedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/ServiceRemovedEvent.html
+END
+ServiceAddedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/ServiceAddedEvent.html
+END
+RoomUpdatedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/RoomUpdatedEvent.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/package-summary.html
+END
+UpdateHistoryStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/UpdateHistoryStrategy.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/package-tree.html
+END
+UpdateOccupantRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/UpdateOccupantRequest.html
+END
+RoomInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/RoomInfo.html
+END
+OccupantLeftEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/OccupantLeftEvent.html
+END
+QueuedTasksManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/QueuedTasksManager.html
+END
+ChangeNickname.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/ChangeNickname.html
+END
+GetNumberConnectedUsers.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/GetNumberConnectedUsers.html
+END
+DestroyRoomRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/DestroyRoomRequest.html
+END
+BroadcastPresenceRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/BroadcastPresenceRequest.html
+END
+OccupantAddedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/OccupantAddedEvent.html
+END
+RoomRemovedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/RoomRemovedEvent.html
+END
+MUCServicePropertyClusterEventTask.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/MUCServicePropertyClusterEventTask.html
+END
+SeniorMemberServicesRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/SeniorMemberServicesRequest.html
+END
+MUCRoomTask.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/MUCRoomTask.html
+END
+UpdatePresence.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/UpdatePresence.html
+END
+ServiceUpdatedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/ServiceUpdatedEvent.html
+END
+GetNewMemberRoomsRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/muc/cluster/GetNewMemberRoomsRequest.html
+END

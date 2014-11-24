@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/licenses
+END
+LICENSE-jaxen.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/licenses/LICENSE-jaxen.txt
+END
+LICENSE-xpp3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/licenses/LICENSE-xpp3.txt
+END
+LICENSE-dom4j.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/licenses/LICENSE-dom4j.txt
+END
+LICENSE-commons-logging.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/licenses/LICENSE-commons-logging.txt
+END

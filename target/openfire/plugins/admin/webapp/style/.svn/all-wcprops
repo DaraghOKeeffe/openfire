@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/style
+END
+login.css
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/style/login.css
+END
+global.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/style/global.css
+END
+ldap.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/style/ldap.css
+END
+lightbox.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/style/lightbox.css
+END
+setup.css
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/style/setup.css
+END

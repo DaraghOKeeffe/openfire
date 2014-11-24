@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/multiplex
+END
+UnknownStanzaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/multiplex/UnknownStanzaException.java
+END
+MultiplexerPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/multiplex/MultiplexerPacketHandler.java
+END
+ClientSessionConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/multiplex/ClientSessionConnection.java
+END
+MultiplexerPacketDeliverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/multiplex/MultiplexerPacketDeliverer.java
+END
+ConnectionMultiplexerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/multiplex/ConnectionMultiplexerManager.java
+END
+Route.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/multiplex/Route.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/multiplex/package.html
+END

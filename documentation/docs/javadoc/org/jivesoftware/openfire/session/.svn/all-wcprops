@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session
+END
+LocalComponentSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/LocalComponentSession.html
+END
+ClientSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/ClientSession.html
+END
+RemoteSessionLocator.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/RemoteSessionLocator.html
+END
+Session.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/Session.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/package-summary.html
+END
+OutgoingServerSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/OutgoingServerSession.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/package-tree.html
+END
+LocalClientSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/LocalClientSession.html
+END
+LocalSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/LocalSession.html
+END
+IncomingServerSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/IncomingServerSession.html
+END
+ConnectionMultiplexerSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/ConnectionMultiplexerSession.html
+END
+ClientSessionInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/ClientSessionInfo.html
+END
+LocalComponentSession.LocalExternalComponent.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/LocalComponentSession.LocalExternalComponent.html
+END
+LocalOutgoingServerSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/LocalOutgoingServerSession.html
+END
+GetSessionsCountTask.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/GetSessionsCountTask.html
+END
+ComponentSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/ComponentSession.html
+END
+LocalConnectionMultiplexerSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/LocalConnectionMultiplexerSession.html
+END
+LocalIncomingServerSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/LocalIncomingServerSession.html
+END
+ComponentSession.ExternalComponent.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/session/ComponentSession.ExternalComponent.html
+END

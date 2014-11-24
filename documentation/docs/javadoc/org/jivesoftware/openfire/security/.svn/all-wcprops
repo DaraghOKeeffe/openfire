@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security
+END
+EventNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security/EventNotFoundException.html
+END
+DefaultSecurityAuditProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security/DefaultSecurityAuditProvider.html
+END
+SecurityAuditEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security/SecurityAuditEvent.html
+END
+AuditWriteOnlyException.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security/AuditWriteOnlyException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security/package-tree.html
+END
+SecurityAuditManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security/SecurityAuditManager.html
+END
+SecurityAuditProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/security/SecurityAuditProvider.html
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database
+END
+CachedPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/CachedPreparedStatement.java
+END
+DefaultConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/DefaultConnectionProvider.java
+END
+DbConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/DbConnectionManager.java
+END
+DefaultConnectionProviderBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/DefaultConnectionProviderBeanInfo.java
+END
+SequenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/SequenceManager.java
+END
+EmbeddedConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/EmbeddedConnectionProvider.java
+END
+ConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/ConnectionProvider.java
+END
+JNDIDataSourceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/JNDIDataSourceProvider.java
+END
+JiveID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/JiveID.java
+END
+SchemaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/SchemaManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/database/package.html
+END

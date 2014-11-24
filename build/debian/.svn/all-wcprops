@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/compat
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/postinst
+END
+openfire.links
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/openfire.links
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/changelog
+END
+openfire.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/openfire.dirs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/copyright
+END
+openfire.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/openfire.postinst
+END
+openfire.default
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/openfire.default
+END
+openfire.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/openfire.postrm
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/rules
+END
+openfire.init.d
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/openfire.init.d
+END
+openfire.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/debian/openfire.conffiles
+END

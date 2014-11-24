@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/WEB-INF/lib
+END
+dwr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/WEB-INF/lib/dwr.jar
+END
+commons-fileupload.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/WEB-INF/lib/commons-fileupload.jar
+END
+commons-io.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/WEB-INF/lib/commons-io.jar
+END
+admin-jsp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/plugins/admin/webapp/WEB-INF/lib/admin-jsp.jar
+END

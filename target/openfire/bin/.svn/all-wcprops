@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/bin
+END
+openfire.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/bin/openfire.sh
+END
+openfire-dev.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/bin/openfire-dev.bat
+END
+openfirectl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/bin/openfirectl
+END
+openfire.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/bin/openfire.bat
+END

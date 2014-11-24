@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/dispatcher
+END
+BasicAgentSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/dispatcher/BasicAgentSelector.java
+END
+BasicAgentSelectorBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/dispatcher/BasicAgentSelectorBeanInfo.java
+END
+DbDispatcherInfoProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/dispatcher/DbDispatcherInfoProvider.java
+END

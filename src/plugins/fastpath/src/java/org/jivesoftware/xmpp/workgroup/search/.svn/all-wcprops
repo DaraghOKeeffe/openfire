@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/search
+END
+ChatSearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/search/ChatSearchManager.java
+END
+QueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/search/QueryResult.java
+END
+ChatSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/search/ChatSearch.java
+END
+IQChatSearchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/search/IQChatSearchHandler.java
+END

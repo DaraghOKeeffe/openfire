@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/dataforms
+END
+WorkgroupForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/dataforms/WorkgroupForm.java
+END
+FormUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/dataforms/FormUtils.java
+END
+FormElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/dataforms/FormElement.java
+END
+FormManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/dataforms/FormManager.java
+END
+WorkgroupFormProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/dataforms/WorkgroupFormProvider.java
+END

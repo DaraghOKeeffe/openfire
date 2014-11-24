@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/registration/src/web/images
+END
+success-16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/registration/src/web/images/success-16x16.gif
+END
+error-16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/registration/src/web/images/error-16x16.gif
+END
+delete-16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/registration/src/web/images/delete-16x16.gif
+END

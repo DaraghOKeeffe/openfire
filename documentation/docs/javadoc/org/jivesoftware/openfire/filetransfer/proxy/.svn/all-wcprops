@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/filetransfer/proxy
+END
+ProxyConnectionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/filetransfer/proxy/ProxyConnectionManager.html
+END
+ProxyOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/filetransfer/proxy/ProxyOutputStream.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/filetransfer/proxy/package-frame.html
+END
+FileTransferProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/filetransfer/proxy/FileTransferProxy.html
+END
+ProxyTransfer.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/filetransfer/proxy/ProxyTransfer.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/filetransfer/proxy/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/filetransfer/proxy/package-tree.html
+END
+DefaultProxyTransfer.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/filetransfer/proxy/DefaultProxyTransfer.html
+END

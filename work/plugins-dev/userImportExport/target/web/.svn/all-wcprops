@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/userImportExport/target/web
+END
+export-user-data.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/userImportExport/target/web/export-user-data.jsp
+END
+import-export-selection.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/userImportExport/target/web/import-export-selection.jsp
+END
+import-user-data.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/userImportExport/target/web/import-user-data.jsp
+END
+export-file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/userImportExport/target/web/export-file.jsp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util
+END
+IntEnumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/IntEnumTest.java
+END
+LDAPTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/LDAPTest.java
+END
+STUNServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/STUNServerTest.java
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/TestUtils.java
+END
+EntityCapabilitiesManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/EntityCapabilitiesManagerTest.java
+END
+CertificateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/CertificateTest.java
+END
+XPPWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/XPPWriterTest.java
+END
+JIDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/JIDTest.java
+END
+AdminConsoleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/AdminConsoleTest.java
+END
+XMLPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/java/org/jivesoftware/util/XMLPropertiesTest.java
+END

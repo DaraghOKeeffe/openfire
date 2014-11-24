@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout
+END
+DefaultLockOutProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout/DefaultLockOutProvider.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout/package-summary.html
+END
+LockOutEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout/LockOutEventListener.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout/package-tree.html
+END
+LockOutEventDispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout/LockOutEventDispatcher.html
+END
+LockOutFlag.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout/LockOutFlag.html
+END
+LockOutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout/LockOutManager.html
+END
+LockOutProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/lockout/LockOutProvider.html
+END

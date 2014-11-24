@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user
+END
+UserAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/UserAlreadyExistsException.java
+END
+NativeUserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/NativeUserProvider.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/UserManager.java
+END
+UserNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/UserNotFoundException.java
+END
+UserNameManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/UserNameManager.java
+END
+PresenceEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/PresenceEventListener.java
+END
+JDBCUserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/JDBCUserProvider.java
+END
+PresenceEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/PresenceEventDispatcher.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/package.html
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/User.java
+END
+RemotePresenceEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/RemotePresenceEventListener.java
+END
+RemotePresenceEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/RemotePresenceEventDispatcher.java
+END
+UserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/UserProvider.java
+END
+UserNameProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/UserNameProvider.java
+END
+UserCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/UserCollection.java
+END
+POP3UserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/POP3UserProvider.java
+END
+HybridUserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/HybridUserProvider.java
+END
+DefaultUserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/user/DefaultUserProvider.java
+END

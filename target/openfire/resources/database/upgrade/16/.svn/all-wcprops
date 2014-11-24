@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/resources/database/upgrade/16
+END
+openfire_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/resources/database/upgrade/16/openfire_hsqldb.sql
+END
+openfire_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/resources/database/upgrade/16/openfire_postgresql.sql
+END
+openfire_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/resources/database/upgrade/16/openfire_mysql.sql
+END
+openfire_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/resources/database/upgrade/16/openfire_oracle.sql
+END
+openfire_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/resources/database/upgrade/16/openfire_sqlserver.sql
+END
+openfire_sybase.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/resources/database/upgrade/16/openfire_sybase.sql
+END
+openfire_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/resources/database/upgrade/16/openfire_db2.sql
+END

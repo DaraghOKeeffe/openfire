@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/format
+END
+PatternFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/format/PatternFormatter.java
+END
+ExtendedPatternFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/format/ExtendedPatternFormatter.java
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/format/Formatter.java
+END

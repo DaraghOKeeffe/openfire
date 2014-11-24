@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth
+END
+AuthorizationMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/AuthorizationMapping.html
+END
+AuthProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/AuthProvider.html
+END
+ConnectionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/ConnectionException.html
+END
+HybridAuthProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/HybridAuthProvider.html
+END
+POP3AuthProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/POP3AuthProvider.html
+END
+AuthorizationPolicy.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/AuthorizationPolicy.html
+END
+DefaultAuthorizationMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/DefaultAuthorizationMapping.html
+END
+DefaultAuthProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/DefaultAuthProvider.html
+END
+NativeAuthProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/NativeAuthProvider.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/package-frame.html
+END
+DefaultAuthorizationPolicy.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/DefaultAuthorizationPolicy.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/package-tree.html
+END
+AuthFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/AuthFactory.html
+END
+AuthorizationManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/AuthorizationManager.html
+END
+JDBCAuthProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/JDBCAuthProvider.html
+END
+UnauthorizedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/UnauthorizedException.html
+END
+InternalUnauthenticatedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/InternalUnauthenticatedException.html
+END
+AuthToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/AuthToken.html
+END
+JDBCAuthProvider.PasswordType.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/JDBCAuthProvider.PasswordType.html
+END
+UnauthenticatedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/jivesoftware/openfire/auth/UnauthenticatedException.html
+END

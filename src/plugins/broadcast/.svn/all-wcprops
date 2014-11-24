@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/broadcast
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/broadcast/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/broadcast/changelog.html
+END
+logo_small.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/broadcast/logo_small.gif
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/broadcast/plugin.xml
+END
+logo_large.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/broadcast/logo_large.gif
+END

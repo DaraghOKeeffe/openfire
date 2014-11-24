@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/monitoring/target/jspc/java/org/jivesoftware/openfire/plugin/monitoring
+END
+stats_002dreporter_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/monitoring/target/jspc/java/org/jivesoftware/openfire/plugin/monitoring/stats_002dreporter_jsp.java
+END
+archive_002dconversation_002dparticipants_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/monitoring/target/jspc/java/org/jivesoftware/openfire/plugin/monitoring/archive_002dconversation_002dparticipants_jsp.java
+END
+graph_002dviewer_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/monitoring/target/jspc/java/org/jivesoftware/openfire/plugin/monitoring/graph_002dviewer_jsp.java
+END
+stats_002ddashboard_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/monitoring/target/jspc/java/org/jivesoftware/openfire/plugin/monitoring/stats_002ddashboard_jsp.java
+END
+archive_002dsearch_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/monitoring/target/jspc/java/org/jivesoftware/openfire/plugin/monitoring/archive_002dsearch_jsp.java
+END
+conversations_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/monitoring/target/jspc/java/org/jivesoftware/openfire/plugin/monitoring/conversations_jsp.java
+END
+archiving_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/monitoring/target/jspc/java/org/jivesoftware/openfire/plugin/monitoring/archiving_002dsettings_jsp.java
+END
+conversation_002dviewer_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/monitoring/target/jspc/java/org/jivesoftware/openfire/plugin/monitoring/conversation_002dviewer_jsp.java
+END

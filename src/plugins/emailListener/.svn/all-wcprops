@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/emailListener
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/emailListener/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/emailListener/changelog.html
+END
+logo_small.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/emailListener/logo_small.gif
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/emailListener/plugin.xml
+END
+logo_large.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/emailListener/logo_large.gif
+END

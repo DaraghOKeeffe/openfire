@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/userImportExport/lib
+END
+msv.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/userImportExport/lib/msv.jar
+END
+xsdlib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/userImportExport/lib/xsdlib.jar
+END
+isorelax.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/userImportExport/lib/isorelax.jar
+END
+commons-fileupload-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/userImportExport/lib/commons-fileupload-1.0.jar
+END
+relaxngDatatype.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/userImportExport/lib/relaxngDatatype.jar
+END

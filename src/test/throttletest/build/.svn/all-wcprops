@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/throttletest/build
+END
+ThrottleTest.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/throttletest/build/ThrottleTest.ipr
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/throttletest/build/build.xml
+END

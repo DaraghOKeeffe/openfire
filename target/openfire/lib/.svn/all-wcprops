@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib
+END
+jtds.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/jtds.jar
+END
+mysql.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/mysql.jar
+END
+jasper-runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/jasper-runtime.jar
+END
+postgres.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/postgres.jar
+END
+openfire.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/openfire.jar
+END
+jdic.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/jdic.jar
+END
+commons-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/commons-el.jar
+END
+hsqldb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/hsqldb.jar
+END
+tray.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/tray.dll
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/mail.jar
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/servlet.jar
+END
+bouncycastle.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/bouncycastle.jar
+END
+jasper-compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/jasper-compiler.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/activation.jar
+END
+startup.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FAME_Security/!svn/ver/4/openfire_src/target/openfire/lib/startup.jar
+END

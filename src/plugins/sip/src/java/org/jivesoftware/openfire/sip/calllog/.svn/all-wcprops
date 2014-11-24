@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog
+END
+CallFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog/CallFilter.java
+END
+CallLogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog/CallLogDAO.java
+END
+CallLogExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog/CallLogExtension.java
+END
+CallLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog/CallLog.java
+END

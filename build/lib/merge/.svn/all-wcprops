@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge
+END
+slf4j-simple-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/slf4j-simple-1.1.0.jar
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jaxen.jar
+END
+mina-filter-compression.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/mina-filter-compression.jar
+END
+mina-filter-ssl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/mina-filter-ssl.jar
+END
+jzlib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jzlib.jar
+END
+jetty-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jetty-util.jar
+END
+mina-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/mina-core.jar
+END
+jmdns.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jmdns.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jstl.jar
+END
+dom4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/dom4j.jar
+END
+rome-fetcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/rome-fetcher.jar
+END
+sitemesh.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/sitemesh.jar
+END
+dbutil.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/dbutil.jar
+END
+slf4j-api-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/slf4j-api-1.1.0.jar
+END
+jetty-sslengine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jetty-sslengine.jar
+END
+shaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/shaj.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/commons-codec.jar
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/commons-httpclient.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jdom.jar
+END
+commons-lang.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/commons-lang.jar
+END
+xpp3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/xpp3.jar
+END
+stringprep.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/stringprep.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/commons-logging.jar
+END
+jetty.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jetty.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/standard.jar
+END
+rome.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/rome.jar
+END
+proxool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/proxool.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jsp-api.jar
+END
+jstun-0.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/merge/jstun-0.6.1.jar
+END

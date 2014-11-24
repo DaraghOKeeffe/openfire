@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet
+END
+PacketError.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet/PacketError.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet/Message.java
+END
+PacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet/PacketExtension.java
+END
+Presence.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet/Presence.java
+END
+StreamError.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet/StreamError.java
+END
+JID.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet/JID.java
+END
+Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet/Packet.java
+END
+IQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet/IQ.java
+END
+Roster.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/packet/Roster.java
+END

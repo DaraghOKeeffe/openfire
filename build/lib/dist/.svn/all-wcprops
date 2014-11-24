@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist
+END
+jtds.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/jtds.jar
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/servlet.jar
+END
+mysql.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/mysql.jar
+END
+postgres.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/postgres.jar
+END
+jdic.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/jdic.jar
+END
+bouncycastle.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/bouncycastle.jar
+END
+hsqldb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/hsqldb.jar
+END
+tray.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/tray.dll
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/activation.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FAME_Security/!svn/ver/4/openfire_src/build/lib/dist/mail.jar
+END

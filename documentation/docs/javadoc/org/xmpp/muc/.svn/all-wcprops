@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/muc
+END
+JoinRoom.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/muc/JoinRoom.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/muc/package-frame.html
+END
+Invitation.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/muc/Invitation.html
+END
+RoomConfiguration.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/muc/RoomConfiguration.html
+END
+DestroyRoom.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/muc/DestroyRoom.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/muc/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/muc/package-tree.html
+END
+LeaveRoom.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/FAME_Security/!svn/ver/4/openfire_src/documentation/docs/javadoc/org/xmpp/muc/LeaveRoom.html
+END

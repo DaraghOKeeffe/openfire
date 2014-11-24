@@ -1,0 +1,157 @@
+10
+
+dir
+93
+http://4c110.ucc.ie/svn/FAME_Security/openfire_src/work/classes/org/jivesoftware/openfire
+http://4c110.ucc.ie/svn/FAME_Security
+
+
+
+2010-07-27T14:30:25.310488Z
+4
+wmacadams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c2f98f62-4a8c-0410-97ed-f3649ed030c0
+
+http
+dir
+
+ldap
+dir
+
+mediaproxy
+dir
+
+cluster
+dir
+
+entitycaps
+dir
+
+stun
+dir
+
+spi
+dir
+
+group
+dir
+
+interceptor
+dir
+
+disco
+dir
+
+auth
+dir
+
+audit
+dir
+
+server
+dir
+
+handler
+dir
+
+privacy
+dir
+
+roster
+dir
+
+lockout
+dir
+
+event
+dir
+
+container
+dir
+
+update
+dir
+
+multiplex
+dir
+
+session
+dir
+
+pep
+dir
+
+muc
+dir
+
+starter
+dir
+
+filetransfer
+dir
+
+nio
+dir
+
+resultsetmanager
+dir
+
+forms
+dir
+
+net
+dir
+
+admin
+dir
+
+transport
+dir
+
+stats
+dir
+
+vcard
+dir
+
+pubsub
+dir
+
+launcher
+dir
+
+commands
+dir
+
+sasl
+dir
+
+clearspace
+dir
+
+component
+dir
+
+security
+dir
+
+webdav
+dir
+
+user
+dir
+

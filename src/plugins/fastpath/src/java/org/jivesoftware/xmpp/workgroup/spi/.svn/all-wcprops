@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi
+END
+BasicRequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/BasicRequestFilter.java
+END
+ChatHistoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/ChatHistoryUtils.java
+END
+BasicRequestFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/BasicRequestFilterFactory.java
+END
+JiveLiveProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/JiveLiveProperties.java
+END
+WorkgroupCompatibleClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/WorkgroupCompatibleClient.java
+END

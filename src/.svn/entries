@@ -1,0 +1,67 @@
+10
+
+dir
+93
+http://4c110.ucc.ie/svn/FAME_Security/openfire_src/src
+http://4c110.ucc.ie/svn/FAME_Security
+
+
+
+2010-08-11T14:16:45.467675Z
+23
+wmacadams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c2f98f62-4a8c-0410-97ed-f3649ed030c0
+
+i18n
+dir
+
+test
+dir
+
+tools
+dir
+
+java
+dir
+
+plugins
+dir
+
+database
+dir
+
+conf
+dir
+
+javadoc
+dir
+
+security
+dir
+
+bin
+dir
+
+resources
+dir
+
+spank
+dir
+
+web
+dir
+

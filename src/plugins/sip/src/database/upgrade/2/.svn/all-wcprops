@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/upgrade/2
+END
+sip_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/upgrade/2/sip_sqlserver.sql
+END
+sip_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/upgrade/2/sip_db2.sql
+END
+sip_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/upgrade/2/sip_hsqldb.sql
+END
+sip_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/upgrade/2/sip_postgresql.sql
+END
+sip_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/upgrade/2/sip_mysql.sql
+END
+sip_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/upgrade/2/sip_oracle.sql
+END

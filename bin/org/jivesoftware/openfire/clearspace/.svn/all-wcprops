@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace
+END
+ClearspaceAuthProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceAuthProvider.java
+END
+ClearspaceMUCEventDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceMUCEventDelegate.java
+END
+URLUTF8Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/URLUTF8Encoder.java
+END
+WSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/WSUtils.java
+END
+ClearspaceUserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceUserProvider.java
+END
+ClearspaceSaslServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceSaslServer.java
+END
+ClearspaceMUCTranscriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceMUCTranscriptManager.java
+END
+ConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ConnectionException.java
+END
+ClearspaceLockOutProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceLockOutProvider.java
+END
+ClearspaceMUCTranscriptEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceMUCTranscriptEvent.java
+END
+SSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/SSLProtocolSocketFactory.java
+END
+ClearspaceX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceX509TrustManager.java
+END
+ClearspaceAdminProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceAdminProvider.java
+END
+ClearspaceGroupProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceGroupProvider.java
+END
+ClearspaceVCardTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceVCardTranslator.java
+END
+ClearspaceSecurityAuditProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceSecurityAuditProvider.java
+END
+ClearspaceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceManager.java
+END
+ClearspaceVCardProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/openfire/clearspace/ClearspaceVCardProvider.java
+END

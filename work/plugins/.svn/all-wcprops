@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins
+END
+presence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/presence.jar
+END
+xmldebugger.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/xmldebugger.jar
+END
+search.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/search.jar
+END
+dbaccess.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/dbaccess.jar
+END
+registration.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/registration.jar
+END
+fastpath.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/fastpath.jar
+END
+soapBox.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/soapBox.jar
+END
+userImportExport.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/userImportExport.jar
+END
+packetFilter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/packetFilter.jar
+END
+trustManagement.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/trustManagement.jar
+END
+clientControl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/clientControl.jar
+END
+contentFilter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/contentFilter.jar
+END
+subscription.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/subscription.jar
+END
+monitoring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/monitoring.jar
+END
+sip.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/sip.jar
+END
+emailListener.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/emailListener.jar
+END
+loadStats.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/loadStats.jar
+END
+userService.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/userService.jar
+END
+bP.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/bP.jar
+END
+broadcast.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/broadcast.jar
+END
+userCreation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/userCreation.jar
+END
+motd.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins/motd.jar
+END

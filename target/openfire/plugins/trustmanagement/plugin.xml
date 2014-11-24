@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>ie.ucc.plugin.trustManagement.TrustManagementPlugin</class>
+    <name>Trust Management</name>
+    <description>Allows potential servers to present credentials
+    to prove they are authorised to connect. If they are deemed authorised,
+    their IP will be added to the s2s whitelist.</description>
+    <author>Wayne Mac Adams</author>
+    <version>1.0</version>
+    <date>16/12/2009</date>
+    <minServerVersion>3.6.4</minServerVersion>
+    
+    <adminconsole>		
+        <tab id="tab-server">
+            <sidebar id="sidebar-server-settings">
+                <item id="trustManagement" name="Trust Management" url="trustmanagement.jsp"
+                     description="Click to manage the trust management service " />
+            </sidebar>
+        </tab>
+    </adminconsole>
+
+</plugin>

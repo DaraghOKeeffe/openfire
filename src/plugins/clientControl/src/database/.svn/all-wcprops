@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database
+END
+import_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/import_db2.sql
+END
+clientcontrol_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/clientcontrol_postgresql.sql
+END
+clientcontrol_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/clientcontrol_mysql.sql
+END
+clientcontrol_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/clientcontrol_oracle.sql
+END
+clientcontrol_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/clientcontrol_sqlserver.sql
+END
+clientcontrol_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/clientcontrol_db2.sql
+END
+import_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/import_hsqldb.sql
+END
+clientcontrol_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/clientcontrol_hsqldb.sql
+END
+import_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/import_postgresql.sql
+END
+import_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/import_mysql.sql
+END
+import_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/import_oracle.sql
+END
+import_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/clientControl/src/database/import_sqlserver.sql
+END

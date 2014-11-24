@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat
+END
+ChatSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/ChatSettings.java
+END
+ChatSettingsCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/ChatSettingsCreator.java
+END
+ChatSettingsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/ChatSettingsManager.java
+END
+ChatSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/ChatSetting.java
+END
+KeyEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/KeyEnum.java
+END

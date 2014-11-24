@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/throttletest/src/org/jivesoftware/openfire/test/throttle
+END
+ThrottleTestWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/throttletest/src/org/jivesoftware/openfire/test/throttle/ThrottleTestWriter.java
+END
+ThrottleTestReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/test/throttletest/src/org/jivesoftware/openfire/test/throttle/ThrottleTestReader.java
+END

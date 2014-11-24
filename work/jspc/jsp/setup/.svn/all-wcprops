@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup
+END
+setup-admin-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-admin-settings.jsp
+END
+setup-datasource-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-datasource-settings.jsp
+END
+setup-datasource-standard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-datasource-standard.jsp
+END
+setup-finished.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-finished.jsp
+END
+clearspace-integration.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/clearspace-integration.jspf
+END
+setup-ldap-user_test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-ldap-user_test.jsp
+END
+setup-style.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-style.css
+END
+setup-ldap-user.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-ldap-user.jsp
+END
+ldap-server.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/ldap-server.jspf
+END
+setup-profile-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-profile-settings.jsp
+END
+clearspace-integration-prelogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/clearspace-integration-prelogin.jsp
+END
+ldap-user.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/ldap-user.jspf
+END
+setup-env-check.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-env-check.jspf
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/index.jsp
+END
+setup-ldap-group_test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-ldap-group_test.jsp
+END
+setup-ldap-group.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-ldap-group.jsp
+END
+setup-host-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-host-settings.jsp
+END
+setup-datasource-jndi.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-datasource-jndi.jsp
+END
+setup-completed.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-completed.jsp
+END
+setup-clearspace-integration_test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-clearspace-integration_test.jsp
+END
+ldap-group.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/ldap-group.jspf
+END
+setup-ldap-server_test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-ldap-server_test.jsp
+END
+setup-clearspace-integration.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-clearspace-integration.jsp
+END
+setup-ldap-server.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-ldap-server.jsp
+END
+setup-admin-settings_test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/jsp/setup/setup-admin-settings_test.jsp
+END

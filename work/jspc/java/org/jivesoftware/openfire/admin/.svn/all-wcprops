@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin
+END
+external_002dcomponents_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/external_002dcomponents_002dsettings_jsp.java
+END
+reg_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/reg_002dsettings_jsp.java
+END
+session_002dsummary_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/session_002dsummary_jsp.java
+END
+user_002dsearch_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002dsearch_jsp.java
+END
+security_002daudit_002dviewer_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/security_002daudit_002dviewer_jsp.java
+END
+plugin_002dadmin_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/plugin_002dadmin_jsp.java
+END
+muc_002dservice_002dsummary_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002dservice_002dsummary_jsp.java
+END
+error_002dserverdown_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/error_002dserverdown_jsp.java
+END
+server_002ddb_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/server_002ddb_jsp.java
+END
+muc_002dservice_002ddelete_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002dservice_002ddelete_jsp.java
+END
+import_002dcertificate_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/import_002dcertificate_jsp.java
+END
+group_002ddelete_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/group_002ddelete_jsp.java
+END
+media_002dproxy_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/media_002dproxy_jsp.java
+END
+profile_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/profile_002dsettings_jsp.java
+END
+ssl_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/ssl_002dsettings_jsp.java
+END
+server_002dproperties_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/server_002dproperties_jsp.java
+END
+user_002dtabs_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002dtabs_jsp.java
+END
+muc_002droom_002dcreate_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002droom_002dcreate_jsp.java
+END
+log_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/log_jsp.java
+END
+ldap_002dgroup_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/ldap_002dgroup_jsp.java
+END
+muc_002droom_002daffiliations_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002droom_002daffiliations_jsp.java
+END
+server2server_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/server2server_002dsettings_jsp.java
+END
+user_002dcreate_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002dcreate_jsp.java
+END
+server_002dsession_002ddetails_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/server_002dsession_002ddetails_jsp.java
+END
+clearspace_002dstatus_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/clearspace_002dstatus_jsp.java
+END
+ldap_002dserver_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/ldap_002dserver_jsp.java
+END
+user_002droster_002dedit_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002droster_002dedit_jsp.java
+END
+offline_002dmessages_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/offline_002dmessages_jsp.java
+END
+stun_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/stun_002dsettings_jsp.java
+END
+private_002ddata_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/private_002ddata_002dsettings_jsp.java
+END
+clearspace_002dadmin_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/clearspace_002dadmin_jsp.java
+END
+http_002dbind_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/http_002dbind_jsp.java
+END
+user_002droster_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002droster_jsp.java
+END
+user_002dlockout_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002dlockout_jsp.java
+END
+server_002ddb_002dstats_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/server_002ddb_002dstats_jsp.java
+END
+index_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/index_jsp.java
+END
+muc_002droom_002dsummary_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002droom_002dsummary_jsp.java
+END
+ssl_002dcertificates_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/ssl_002dcertificates_jsp.java
+END
+muc_002droom_002ddelete_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002droom_002ddelete_jsp.java
+END
+server_002dprops_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/server_002dprops_jsp.java
+END
+user_002dproperties_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002dproperties_jsp.java
+END
+user_002dsummary_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002dsummary_jsp.java
+END
+component_002dsession_002ddetails_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/component_002dsession_002ddetails_jsp.java
+END
+user_002dpassword_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002dpassword_jsp.java
+END
+user_002ddelete_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002ddelete_jsp.java
+END
+error_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/error_jsp.java
+END
+chatroom_002dhistory_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/chatroom_002dhistory_002dsettings_jsp.java
+END
+muc_002dcreate_002dpermission_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002dcreate_002dpermission_jsp.java
+END
+clearspace_002dintegration_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/clearspace_002dintegration_jsp.java
+END
+system_002dcache_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/system_002dcache_jsp.java
+END
+muc_002dservice_002dedit_002dform_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002dservice_002dedit_002dform_jsp.java
+END
+group_002dsummary_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/group_002dsummary_jsp.java
+END
+user_002droster_002dadd_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002droster_002dadd_jsp.java
+END
+file_002dtransfer_002dproxy_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/file_002dtransfer_002dproxy_jsp.java
+END
+server_002drestart_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/server_002drestart_jsp.java
+END
+server_002dsession_002dsummary_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/server_002dsession_002dsummary_jsp.java
+END
+manage_002dupdates_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/manage_002dupdates_jsp.java
+END
+ssl_002dsigning_002drequest_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/ssl_002dsigning_002drequest_jsp.java
+END
+ldap_002duser_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/ldap_002duser_jsp.java
+END
+compression_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/compression_002dsettings_jsp.java
+END
+user_002dmessage_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002dmessage_jsp.java
+END
+connection_002dmanagers_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/connection_002dmanagers_002dsettings_jsp.java
+END
+user_002droster_002ddelete_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002droster_002ddelete_jsp.java
+END
+server_002dlocale_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/server_002dlocale_jsp.java
+END
+muc_002droom_002doccupants_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002droom_002doccupants_jsp.java
+END
+session_002ddetails_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/session_002ddetails_jsp.java
+END
+system_002demailtest_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/system_002demailtest_jsp.java
+END
+group_002dedit_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/group_002dedit_jsp.java
+END
+session_002dconflict_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/session_002dconflict_jsp.java
+END
+component_002dsession_002dsummary_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/component_002dsession_002dsummary_jsp.java
+END
+muc_002dhistory_002dsettings_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002dhistory_002dsettings_jsp.java
+END
+muc_002dservice_002dcreate_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002dservice_002dcreate_jsp.java
+END
+logviewer_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/logviewer_jsp.java
+END
+muc_002dsysadmins_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002dsysadmins_jsp.java
+END
+group_002dcreate_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/group_002dcreate_jsp.java
+END
+available_002dplugins_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/available_002dplugins_jsp.java
+END
+login_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/login_jsp.java
+END
+system_002dclustering_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/system_002dclustering_jsp.java
+END
+muc_002droom_002dedit_002dform_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002droom_002dedit_002dform_jsp.java
+END
+audit_002dpolicy_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/audit_002dpolicy_jsp.java
+END
+muc_002dtasks_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/muc_002dtasks_jsp.java
+END
+system_002demail_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/system_002demail_jsp.java
+END
+user_002droster_002dview_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002droster_002dview_jsp.java
+END
+user_002dedit_002dform_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/jspc/java/org/jivesoftware/openfire/admin/user_002dedit_002dform_jsp.java
+END

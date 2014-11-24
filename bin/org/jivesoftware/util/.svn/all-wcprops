@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util
+END
+AlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/AlreadyExistsException.java
+END
+Enum.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/Enum.java
+END
+LocaleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/LocaleFilter.java
+END
+HttpClientWithTimeoutFeedFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/HttpClientWithTimeoutFeedFetcher.java
+END
+WebManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/WebManager.java
+END
+JiveProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/JiveProperties.java
+END
+PropertyClusterEventTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/PropertyClusterEventTask.java
+END
+SimpleSSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/SimpleSSLSocketFactory.java
+END
+ByteFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/ByteFormat.java
+END
+Blowfish.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/Blowfish.java
+END
+ModificationNotAllowedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/ModificationNotAllowedException.java
+END
+HTTPConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/HTTPConnectionException.java
+END
+IntEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/IntEnum.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/Log.java
+END
+SetCharacterEncodingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/SetCharacterEncodingFilter.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/Version.java
+END
+ClassUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/ClassUtils.java
+END
+BeanUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/BeanUtils.java
+END
+ElementUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/ElementUtil.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/StringUtils.java
+END
+JiveConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/JiveConstants.java
+END
+CertificateEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/CertificateEventListener.java
+END
+PropertyEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/PropertyEventListener.java
+END
+PropertyEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/PropertyEventDispatcher.java
+END
+InputOutputStreamWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/InputOutputStreamWrapper.java
+END
+JiveBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/JiveBeanInfo.java
+END
+JiveGlobals.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/JiveGlobals.java
+END
+ConcurrentHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/ConcurrentHashSet.java
+END
+LinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/LinkedList.java
+END
+WebBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/WebBean.java
+END
+FastDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/FastDateFormat.java
+END
+InitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/InitializationException.java
+END
+EmailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/EmailService.java
+END
+LinkedListNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/LinkedListNode.java
+END
+NotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/NotFoundException.java
+END
+XMLProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/XMLProperties.java
+END
+CertificateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/CertificateManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/package.html
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/Logger.java
+END
+LocaleUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/LocaleUtils.java
+END
+ParamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/ParamUtils.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/Base64.java
+END
+TaskEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/TaskEngine.java
+END
+CookieUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/CookieUtils.java
+END
+FaviconServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/FaviconServlet.java
+END
+InternalServerErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/InternalServerErrorException.java
+END
+XMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/XMLWriter.java
+END

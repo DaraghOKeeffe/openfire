@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/lib
+END
+commons-fileupload-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/lib/commons-fileupload-1.0.jar
+END
+lucene.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/lib/lucene.jar
+END
+xstream.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/fastpath/lib/xstream.jar
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/component
+END
+ComponentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/component/ComponentException.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/component/Log.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/component/Component.java
+END
+ComponentManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/component/ComponentManagerFactory.java
+END
+ComponentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/xmpp/component/ComponentManager.java
+END

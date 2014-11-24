@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate
+END
+ExpandingFileStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate/ExpandingFileStrategy.java
+END
+RotateStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate/RotateStrategy.java
+END
+FileStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate/FileStrategy.java
+END
+OrRotateStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate/OrRotateStrategy.java
+END
+RotateStrategyBySize.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate/RotateStrategyBySize.java
+END
+UniqueFileStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate/UniqueFileStrategy.java
+END
+RotateStrategyByTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate/RotateStrategyByTime.java
+END
+RevolvingFileStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate/RevolvingFileStrategy.java
+END
+RotatingFileTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/java/org/jivesoftware/util/log/output/io/rotate/RotatingFileTarget.java
+END

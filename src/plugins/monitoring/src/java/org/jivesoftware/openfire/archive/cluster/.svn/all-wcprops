@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/cluster
+END
+GetConversationsTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/cluster/GetConversationsTask.java
+END
+GetConversationCountTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/cluster/GetConversationCountTask.java
+END
+SendConversationEventsTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/cluster/SendConversationEventsTask.java
+END
+GetConversationTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/monitoring/src/java/org/jivesoftware/openfire/archive/cluster/GetConversationTask.java
+END

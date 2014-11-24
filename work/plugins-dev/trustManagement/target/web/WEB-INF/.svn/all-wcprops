@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/trustManagement/target/web/WEB-INF
+END
+sitemesh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/trustManagement/target/web/WEB-INF/sitemesh.xml
+END
+web.xml.startup.servlet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/trustManagement/target/web/WEB-INF/web.xml.startup.servlet
+END
+decorators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/trustManagement/target/web/WEB-INF/decorators.xml
+END
+web-custom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/trustManagement/target/web/WEB-INF/web-custom.xml
+END
+admin.tld
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/trustManagement/target/web/WEB-INF/admin.tld
+END
+dwr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/trustManagement/target/web/WEB-INF/dwr.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/FAME_Security/!svn/ver/4/openfire_src/work/plugins-dev/trustManagement/target/web/WEB-INF/web.xml
+END

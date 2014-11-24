@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <!-- Main plugin class -->
+    <class>org.plugin.bPPlugin</class>
+
+    <!-- Plugin meta-data -->
+    <name>Example Plugin</name>
+    <description>This is an example plugin.</description>
+    <author>Me Mo fo</author>
+
+    <version>1.0</version>
+    <date>17/12/2009</date>
+    <url>localhost:9090</url>
+    <minServerVersion>3.0.0</minServerVersion>
+    <licenseType>gpl</licenseType>
+
+    <adminconsole>		
+        <tab id="tab-server">
+            <sidebar id="sidebar-server-settings">
+                <item id="bP" name="Example Plugin" url="bP.jsp"
+                     description="Click to manage NOTHING :)" />
+            </sidebar>
+        </tab>
+    </adminconsole>
+    
+</plugin>

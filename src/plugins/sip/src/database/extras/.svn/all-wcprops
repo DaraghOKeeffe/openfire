@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/extras
+END
+import_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/extras/import_db2.sql
+END
+import_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/extras/import_hsqldb.sql
+END
+import_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/extras/import_postgresql.sql
+END
+import_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/extras/import_mysql.sql
+END
+import_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/extras/import_oracle.sql
+END
+import_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/database/extras/import_sqlserver.sql
+END

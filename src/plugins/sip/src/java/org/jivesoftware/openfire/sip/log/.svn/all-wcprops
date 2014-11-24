@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/log
+END
+LogComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/log/LogComponent.java
+END
+LogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/log/LogListener.java
+END
+LogListenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/FAME_Security/!svn/ver/4/openfire_src/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/log/LogListenerImpl.java
+END
