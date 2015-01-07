@@ -6,6 +6,7 @@ import java.sql.*;
 import org.xmpp.packet.*;
 import org.jivesoftware.openfire.container.Plugin;
 import org.jivesoftware.openfire.container.PluginManager;
+import org.jivesoftware.openfire.event.*;
 import org.jivesoftware.openfire.group.Group;
 import org.jivesoftware.openfire.group.GroupManager;
 import org.jivesoftware.openfire.group.GroupNotFoundException;
@@ -18,7 +19,7 @@ import org.jivesoftware.openfire.user.UserNotFoundException;
 import org.jivesoftware.openfire.XMPPServer;
 import org.jivesoftware.util.Log;
 
-public class ChineseWall implements Plugin, PacketInterceptor{	
+public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener {	
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
 	static final String DB_URL = "jdbc:mysql://localhost:3306/openfire";
 	static final String USER = "root";
@@ -31,16 +32,20 @@ public class ChineseWall implements Plugin, PacketInterceptor{
 	}
 	
 	private InterceptorManager interceptorManager;
-
+	private MUCEventDispatcher MUCListener;
+	
+	
 	public void initializePlugin(PluginManager manager, File pluginDirectory) {
         // register with interceptor manager
         Log.info("Chinese Wall Plugin loaded...");
         interceptorManager.addInterceptor(this);
+        MUCListener.addListener(this);
     }
 
     public void destroyPlugin() {
         // unregister with interceptor manager
         interceptorManager.removeInterceptor(this);
+        MUCListener.removeListener(this);
     }
 
 	public void interceptPacket(Packet packet, Session session, boolean incoming, boolean processed) throws PacketRejectedException {    	
@@ -64,54 +69,13 @@ public class ChineseWall implements Plugin, PacketInterceptor{
 	    		Log.info("Chinese Wall : Packet from "+from+" to "+to+" was intercepted.");
 	    		throw new PacketRejectedException();
 			}
-    	}else if(msg.getType() == Message.Type.groupchat){
-    		//need to change that people without conflicts can still send messages.
-    		//look at packet .getFrom() maybe
-    		//System.out.println("Groupchat message : "+msg.getBody());
-    		JID jidFrom = packet.getFrom();
-        	String fromJID = jidFrom.toBareJID();
-        	String from = fromJID.split("@")[0];
-        	String fromOrg = getOrg(from);
-        	//System.out.println("From : "+from);
-        	MUCRoom currentRoom;
-        	MUCRole role;
-    		List<String> members = getMembers();
-    		for (String a : members){
-				//get orgs
-				String memberOrg = getOrg(a);
-				//if conflict between any member and the sender
-    			if(checkConflict(fromOrg,memberOrg)){
-    				//reject user from groupchat.
-    				//get room 
-    				List <MUCRoom> rooms = getRooms();
-    	        	for (MUCRoom room : rooms){
-    	        		//check which room user is in, and kick him from this room
-    	        		if(room.hasOccupant(a)){
-    	        			try{
-    	        				role = room.getOccupant(a);
-    	        				//need to alter presence after kick?
-    	        				room.kickOccupant(jidFrom, jidFrom, "Kicked!");
-    	        				System.err.println("CHINESEWALL : JID : "+jidFrom+"GROUP Dropping from "+from+" to "+a+" : "+msg.getBody());
-    	        	    		System.out.println("CHINESEWALL : GROUP Reason : "+memberOrg+" conflicts with "+fromOrg+".");
-    	        	    		Log.info("Chinese Wall : Packet from "+from+" to "+a+" was intercepted.");
-    	        				throw new PacketRejectedException();
-    	        			}catch( UserNotFoundException e){
-    	        	       		e.printStackTrace();
-    	        	       	}catch( NotAllowedException n){
-    	        	       		n.printStackTrace();
-    	        	       	}
-    	        			
-    	        		}
-    	        	} 
-    				
-    			}
-    		}
-    		
     	}
     }
 
 	
 	//move these to another Class
+	
+	//Returns org of user
 	public String getOrg(String username){
 			String org = "";
 	    	try{
@@ -134,6 +98,7 @@ public class ChineseWall implements Plugin, PacketInterceptor{
 	    	return org;
 	 }
 	 	 
+	//Checks conflict between two orgs
 	public boolean checkConflict(String org1,String org2){
 		 boolean conflict = false;
 		 try{
@@ -159,30 +124,101 @@ public class ChineseWall implements Plugin, PacketInterceptor{
     	return conflict;	    
 	 }
 	 
-	//returns members of chatroom where packet is being sent
+	//returns chatroom given room JID
+	public MUCRoom getRoom(JID roomJID){
+		List <MUCRoom> rooms = getRooms();
+		MUCRoom MUCreturnRoom = null;
+		for (MUCRoom room : rooms){
+			if (room.getJID().equals(roomJID)){
+				MUCreturnRoom = room;
+			}
+		}
+		return MUCreturnRoom;
+	}
+	
+	//returns list of chatrooms
 	public List getRooms(){
 		XMPPServer server = XMPPServer.getInstance();
 	    MultiUserChatService m = server.getMultiUserChatManager().getMultiUserChatService("conference");
 	    List <MUCRoom> rooms = m.getChatRooms();
 	    return rooms;
-	 }
+	}
 	 
-	public List getMembers(){
+	//Returns all members of room
+	public List getMembers(JID roomJID){
     	ArrayList<String> members = new ArrayList<String>();
-    	List <MUCRoom> rooms = getRooms();
+    	List <MUCRoom> rooms = getRooms();    	
     	for (MUCRoom room : rooms){
-    		Collection <MUCRole> occupants = room.getOccupants();
-    		for(MUCRole occupant : occupants){
-    			String nick = occupant.getNickname();
-    			if(nick.contains("@")){
-    				nick = nick.split("@")[0];
-    			}
-    			members.add(nick);
+    		if (room.getJID().equals(roomJID)){
+	    		Collection <MUCRole> occupants = room.getOccupants();
+	    		for(MUCRole occupant : occupants){
+	    			String nick = occupant.getNickname();
+	    			if(nick.contains("@")){
+	    				nick = nick.split("@")[0];
+	    			}
+	    			members.add(nick);
+	    		}
     		}
-        	
     	}
-    	//System.out.println("Members : "+members);
+    	System.out.println("Members : "+members);
     	return members;
-	 }
+    }
+	
+	@Override
+	public void occupantJoined(JID roomJID, JID user, String nickname)   {
+		System.out.println("User "+nickname+" joined room "+roomJID);
+		MUCRoom room = getRoom(roomJID);
+		//Check for conflict
+		String userOrg = getOrg(nickname);
+		List<String> members = getMembers(roomJID);
+		for (String member : members){
+			String memberOrg = getOrg(member);
+			if (checkConflict(userOrg,memberOrg)){
+				//kick user
+				try{
+					//@TODO alter presence after kick!
+					room.kickOccupant(user, user, "Kicked!");
+					System.out.println("CHINESEWALL : Removing user "+user);
+					System.out.println("CHINESEWALL : Reason : "+userOrg+" conflicts with "+memberOrg);
+				} catch( NotAllowedException n){
+    	       		n.printStackTrace();
+    	       	}
+			}
+		}
+	}
+	
+	@Override
+	public void roomSubjectChanged(JID roomJID,JID user,String newSubject) {
+		// TODO Auto-generated method stub
 
+	}
+	
+	@Override
+	public void messageReceived(JID roomJID, JID user, String nickname, Message message) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void nicknameChanged(JID roomJID,JID user, String oldNickname, String newNickname)  {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void occupantLeft(JID roomJID, JID user)  {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void roomDestroyed(JID roomJID)   {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void roomCreated(JID roomJID)    {
+		// TODO Auto-generated method stub
+	}
 }
