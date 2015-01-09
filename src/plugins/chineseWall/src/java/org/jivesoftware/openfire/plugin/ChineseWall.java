@@ -84,6 +84,7 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 				try{
 					//@TODO alter presence after kick!
 					Presence presence = room.kickOccupant(user, admin, "Kicked!");
+					//This doesnt work. Common problem with openfire
 					role.setPresence(presence);
 					Log.info("Chinese Wall : Removing User "+user);
 					//System.out.println("Presence:"+role.getPresence());
