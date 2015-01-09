@@ -61,109 +61,16 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
     		System.out.println("Packet from "+fromJID+" to "+toJID);
 	    	//check rules    
 	    	if (cw.checkConflict(toOrg,fromOrg)){
-	    		System.out.println("CHINESEWALL : Dropping from "+from+" to "+to+" : "+msg.getBody());
-	    		System.out.println("CHINESEWALL : Reason : "+fromOrg+" conflicts with "+toOrg+".");
+	    		//System.out.println("CHINESEWALL : Dropping from "+from+" to "+to+" : "+msg.getBody()+". Reason : "+fromOrg+" conflicts with "+toOrg+".");
 	    		Log.info("Chinese Wall : Packet from "+from+" to "+to+" was intercepted.");
 	    		throw new PacketRejectedException();
 			}
     	}
     }
-
-	
-	//move these to another Class
-	
-	/*//Returns org of user
-	public String getOrg(String username){
-			String org = "";
-	    	try{
-		    	Class.forName("com.mysql.jdbc.Driver");
-		    	conn = DriverManager.getConnection(DB_URL,USER,PASS);
-		    	stmt = conn.createStatement();
-		    	String sql = "select groupName from ofGroupUser where username = \""+username+"\"";
-		    	ResultSet rs = stmt.executeQuery(sql);
-		    	while(rs.next()){
-		    		org = rs.getString("groupName");
-		    	}
-		    	rs.close();
-		    	stmt.close();
-		    	conn.close();
-	    	} catch (SQLException se){
-	    		se.printStackTrace();
-	    	} catch (Exception e){
-	    		e.printStackTrace();
-	    	}
-	    	return org;
-	 }*/
-	 	 
-	/*//Checks conflict between two orgs
-	public boolean checkConflict(String org1,String org2){
-		 boolean conflict = false;
-		 try{
-		    Class.forName("com.mysql.jdbc.Driver");
-		    conn = DriverManager.getConnection(DB_URL,USER,PASS);
-		    stmt = conn.createStatement();
-		    //return org and check all against conflictsWith??
-		    String sql = "select org from conflict where org = \""+org1+"\" and conflictsWith = \""+org2+"\"";
-	    	ResultSet rs = stmt.executeQuery(sql);
-	    	while(rs.next()){
-	    		if(rs.getString("org") != null){
-	    			conflict = true;
-	    		}
-	    	}
-	    	rs.close();
-	    	stmt.close();
-	    	conn.close();
-    	} catch (SQLException se){
-    		se.printStackTrace();
-    	} catch (Exception e){
-    		e.printStackTrace();
-    	}
-    	return conflict;	    
-	 }*/
-	 
-	/*//returns chatroom given room JID
-	public MUCRoom getRoom(JID roomJID){
-		List <MUCRoom> rooms = getRooms();
-		MUCRoom MUCreturnRoom = null;
-		for (MUCRoom room : rooms){
-			if (room.getJID().equals(roomJID)){
-				MUCreturnRoom = room;
-			}
-		}
-		return MUCreturnRoom;
-	}*/
-	
-	/*//returns list of chatrooms
-	public List getRooms(){
-		XMPPServer server = XMPPServer.getInstance();
-	    MultiUserChatService m = server.getMultiUserChatManager().getMultiUserChatService("conference");
-	    List <MUCRoom> rooms = m.getChatRooms();
-	    return rooms;
-	}*/
-	 
-	/*//Returns all members of room
-	public List getMembers(JID roomJID){
-    	ArrayList<String> members = new ArrayList<String>();
-    	List <MUCRoom> rooms = getRooms();    	
-    	for (MUCRoom room : rooms){
-    		if (room.getJID().equals(roomJID)){
-	    		Collection <MUCRole> occupants = room.getOccupants();
-	    		for(MUCRole occupant : occupants){
-	    			String nick = occupant.getNickname();
-	    			if(nick.contains("@")){
-	    				nick = nick.split("@")[0];
-	    			}
-	    			members.add(nick);
-	    		}
-    		}
-    	}
-    	System.out.println("Members : "+members);
-    	return members;
-    }*/
 	
 	@Override
 	public void occupantJoined(JID roomJID, JID user, String nickname)   {
-		System.out.println("User "+nickname+" joined room "+roomJID);
+		//System.out.println("User "+nickname+" joined room "+roomJID);
 		MUCRoom room = cw.getRoom(roomJID);
 		//Check for conflict
 		String userOrg = cw.getOrg(nickname);
@@ -172,12 +79,16 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 		for (String member : members){
 			String memberOrg = cw.getOrg(member);
 			if (cw.checkConflict(userOrg,memberOrg)){
+				MUCRole role = cw.getRole(nickname, room);
 				//kick user
 				try{
 					//@TODO alter presence after kick!
-					room.kickOccupant(user, admin, "Kicked!");
-					System.out.println("CHINESEWALL : Removing user "+user);
-					System.out.println("CHINESEWALL : Reason : "+userOrg+" conflicts with "+memberOrg);
+					Presence presence = room.kickOccupant(user, admin, "Kicked!");
+					role.setPresence(presence);
+					Log.info("Chinese Wall : Removing User "+user);
+					//System.out.println("Presence:"+role.getPresence());
+					//System.out.println("CHINESEWALL : Removing user "+user);
+					//System.out.println("CHINESEWALL : Reason : "+userOrg+" conflicts with "+memberOrg);
 				} catch( NotAllowedException n){
     	       		n.printStackTrace();
     	       	}
@@ -206,7 +117,6 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 	@Override
 	public void occupantLeft(JID roomJID, JID user)  {
 		// TODO Auto-generated method stub
-		System.out.println("User "+user+" has left.");
 		
 	}
 	

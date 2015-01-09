@@ -27,18 +27,22 @@ public class ChineseWallUtil {
 	public ChineseWallUtil(){
 		
 	}
+	
 	//returns list of chatrooms
 	public List getRooms(){
 		XMPPServer server = XMPPServer.getInstance();
-	    MultiUserChatService m = server.getMultiUserChatManager().getMultiUserChatService("conference");
-	    List <MUCRoom> rooms = m.getChatRooms();
+		List<MUCRoom> rooms = new ArrayList<MUCRoom>();	
+		List<MultiUserChatService> chatServices = server.getMultiUserChatManager().getMultiUserChatServices();
+	    for (MultiUserChatService chatService : chatServices){
+	    	rooms.addAll(chatService.getChatRooms());
+	    }
 	    return rooms;
 	}
 	
 	//Returns all members of room
 	public List getMembers(JID roomJID){
 	   	ArrayList<String> members = new ArrayList<String>();
-	   	List <MUCRoom> rooms = getRooms();    	
+	   	List <MUCRoom> rooms = this.getRooms();    	
 	   	for (MUCRoom room : rooms){
 	   		if (room.getJID().equals(roomJID)){
 	    		Collection <MUCRole> occupants = room.getOccupants();
@@ -51,13 +55,24 @@ public class ChineseWallUtil {
 	    		}
 	   		}
 	   	}
-	   	System.out.println("Members : "+members);
 	   	return members;
+	}
+	
+	public static MUCRole getRole(String nick, MUCRoom room){
+		MUCRole role = null;
+		Collection <MUCRole> occupants = room.getOccupants();
+		for(MUCRole occupant : occupants){
+			System.out.println(nick+" == "+occupant.getNickname());
+			if(nick == occupant.getNickname()){
+				role = occupant;
+			}
+		}
+		return role;
 	}
 	
 	//returns chatroom given room JID
 	public MUCRoom getRoom(JID roomJID){
-		List <MUCRoom> rooms = getRooms();
+		List <MUCRoom> rooms = this.getRooms();
 		MUCRoom MUCreturnRoom = null;
 		for (MUCRoom room : rooms){
 			if (room.getJID().equals(roomJID)){
