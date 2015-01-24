@@ -1,1 +1,8 @@
-Project being developed for FYP in UCC.
+Project Overview	
+
+A Chinese Wall is a security model that governs who can access certain files. It is a barrier placed between two parties to stop the passing of information that could cause a conflict of interest. A conflict of interest is a situation where a person is in a position to exploit something or someone for personal or corporate gain. This is sometimes referred to as the “Brewer and Nash Model”. One such example of when to use a Chinese Wall is in a Law firm, where two lawyers working for the firm are representing different sides of a case. It would be unethical, and, in some cases, illegal for one side to see documents relating to the case that belong to the other side.
+
+For this project, I propose to research and implement a plugin for the Openfire chat server that will enforce a Chinese Wall policy. The plugin will attempt to detect a conflict, and intercept the message before the recipient can read it. In order to this, extensive use of Java and  the Openfire API will be required. The hope is that this project will be accepted by Openfire and added to their open source repository of Plugins. 
+
+Openfire is an Open Source Server that uses the XMPP Protocol for Instant Messaging (also known as Jabber). It is widely used in industry, and has been extended beyond just a simple Instant Messaging service. It now can be used for video messaging, voice chats, file transfers, and other real time interactions. Because of this, information can be shared a lot easier within an organisation, and thus the need for a way to implement a chinese wall is established.  
+
