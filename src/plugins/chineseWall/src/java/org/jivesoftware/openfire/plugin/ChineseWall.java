@@ -30,15 +30,15 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 	private InterceptorManager interceptorManager;
 	private MUCEventDispatcher MUC;
 	private ChineseWallUtil cw = new ChineseWallUtil();
-	
+	private persistentStorage db = new persistentStorage();
 	
 	public void initializePlugin(PluginManager manager, File pluginDirectory) {
         // register with interceptor manager
         Log.info("Chinese Wall Plugin loaded...");
         interceptorManager.addInterceptor(this);
         MUC.addListener(this);
-    }
-
+	}    
+    
     public void destroyPlugin() {
         // unregister with interceptor manager
         interceptorManager.removeInterceptor(this);
@@ -51,16 +51,16 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
     		JID jidTo = packet.getTo();
     		String toJID = jidTo.toBareJID();
             String to = toJID.split("@")[0];
-            String toOrg = cw.getOrg(to);
+            String toOrg = db.getOrg(to);
             
             JID jidFrom = packet.getFrom();
         	String fromJID = jidFrom.toBareJID();
         	String from = fromJID.split("@")[0];
-        	String fromOrg = cw.getOrg(from);    
+        	String fromOrg = db.getOrg(from);    
         	
     		System.out.println("Packet from "+fromJID+" to "+toJID);
 	    	//check rules    
-	    	if (cw.checkConflict(toOrg,fromOrg)){
+	    	if (db.checkConflict(toOrg,fromOrg)){
 	    		//System.out.println("CHINESEWALL : Dropping from "+from+" to "+to+" : "+msg.getBody()+". Reason : "+fromOrg+" conflicts with "+toOrg+".");
 	    		Log.info("Chinese Wall : Packet from "+from+" to "+to+" was intercepted.");
 	    		throw new PacketRejectedException();
@@ -73,12 +73,12 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 		//System.out.println("User "+nickname+" joined room "+roomJID);
 		MUCRoom room = cw.getRoom(roomJID);
 		//Check for conflict
-		String userOrg = cw.getOrg(nickname);
+		String userOrg = db.getOrg(nickname);
 		List<String> members = cw.getMembers(roomJID);
 		JID admin = new JID("admin","admin","");
 		for (String member : members){
-			String memberOrg = cw.getOrg(member);
-			if (cw.checkConflict(userOrg,memberOrg)){
+			String memberOrg = db.getOrg(member);
+			if (db.checkConflict(userOrg,memberOrg)){
 				MUCRole role = cw.getRole(nickname, room);
 				//kick user
 				try{

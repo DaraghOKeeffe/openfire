@@ -8,27 +8,19 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
-
 import org.jivesoftware.openfire.XMPPServer;
 import org.jivesoftware.openfire.muc.MUCRole;
 import org.jivesoftware.openfire.muc.MUCRoom;
 import org.jivesoftware.openfire.muc.MultiUserChatService;
 import org.xmpp.packet.JID;
 
-
 public class ChineseWallUtil {
-	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	static final String DB_URL = "jdbc:mysql://localhost:3306/openfire";
-	static final String USER = "root";
-	static final String PASS = "openfire123";
-	Connection conn = null;
-	Statement stmt = null;
 	
 	public ChineseWallUtil(){
 		
 	}
 	
-	//returns list of chatrooms
+	// Returns list of Chatrooms
 	public List getRooms(){
 		XMPPServer server = XMPPServer.getInstance();
 		List<MUCRoom> rooms = new ArrayList<MUCRoom>();	
@@ -39,7 +31,7 @@ public class ChineseWallUtil {
 	    return rooms;
 	}
 	
-	//Returns all members of room
+	// Returns all members of room
 	public List getMembers(JID roomJID){
 	   	ArrayList<String> members = new ArrayList<String>();
 	   	List <MUCRoom> rooms = this.getRooms();    	
@@ -58,6 +50,7 @@ public class ChineseWallUtil {
 	   	return members;
 	}
 	
+	// Gets Role of user in room
 	public static MUCRole getRole(String nick, MUCRoom room){
 		MUCRole role = null;
 		Collection <MUCRole> occupants = room.getOccupants();
@@ -70,7 +63,7 @@ public class ChineseWallUtil {
 		return role;
 	}
 	
-	//returns chatroom given room JID
+	// Returns chatroom given room JID
 	public MUCRoom getRoom(JID roomJID){
 		List <MUCRoom> rooms = this.getRooms();
 		MUCRoom MUCreturnRoom = null;
@@ -82,52 +75,4 @@ public class ChineseWallUtil {
 		return MUCreturnRoom;
 	}
 	
-	//Returns org of user
-	public String getOrg(String username){
-			String org = "";
-	    	try{
-		    	Class.forName("com.mysql.jdbc.Driver");
-		    	conn = DriverManager.getConnection(DB_URL,USER,PASS);
-		    	stmt = conn.createStatement();
-		    	String sql = "select groupName from ofGroupUser where username = \""+username+"\"";
-		    	ResultSet rs = stmt.executeQuery(sql);
-		    	while(rs.next()){
-		    		org = rs.getString("groupName");
-		    	}
-		    	rs.close();
-		    	stmt.close();
-		    	conn.close();
-	    	} catch (SQLException se){
-	    		se.printStackTrace();
-	    	} catch (Exception e){
-	    		e.printStackTrace();
-	    	}
-	    	return org;
-	}
-	
-	//Checks conflict between two orgs
-	public boolean checkConflict(String org1,String org2){
-		 boolean conflict = false;
-		 try{
-		    Class.forName("com.mysql.jdbc.Driver");
-		    conn = DriverManager.getConnection(DB_URL,USER,PASS);
-		    stmt = conn.createStatement();
-		    //return org and check all against conflictsWith??
-		    String sql = "select org from conflict where org = \""+org1+"\" and conflictsWith = \""+org2+"\"";
-	    	ResultSet rs = stmt.executeQuery(sql);
-	    	while(rs.next()){
-	    		if(rs.getString("org") != null){
-	    			conflict = true;
-	    		}
-	    	}
-	    	rs.close();
-	    	stmt.close();
-	    	conn.close();
-	   	} catch (SQLException se){
-	   		se.printStackTrace();
-	   	} catch (Exception e){
-	   		e.printStackTrace();
-	   	}
-	   	return conflict;	    
-	}
 }
