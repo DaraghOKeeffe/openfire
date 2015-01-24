@@ -83,5 +83,6 @@
 	<classpathentry kind="lib" path="src/web/WEB-INF/lib/commons-io.jar"/>
 	<classpathentry kind="lib" path="src/web/WEB-INF/lib/dwr.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="build/lib/ehcache-2.9.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
