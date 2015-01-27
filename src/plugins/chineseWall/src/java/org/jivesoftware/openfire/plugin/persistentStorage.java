@@ -5,9 +5,15 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import net.sf.ehcache.*;
+
+import net.sf.ehcache.CacheException;
+import net.sf.ehcache.CacheManager;
+import net.sf.ehcache.Element;
+import net.sf.ehcache.Cache;
+import net.sf.ehcache.ObjectExistsException;
+
 public class persistentStorage {
-	// TODO Cache Resultss
+	// TODO Cache Results
 	private static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
 	private static final String DB_URL = "jdbc:mysql://localhost:3306/openfire";
 	private static final String USER = "root";
@@ -15,13 +21,24 @@ public class persistentStorage {
 	private Connection conn = null;
 	private Statement stmt = null;
 	private ResultSet results = null;
+	private Cache cache = this.createCache();
 	
 	// Creates Cache
-	public static Cache createCache(){
-		CacheManager cchm = CacheManager.getInstance();
-		cchm.addCache("DBCache");
-        Cache cch = cchm.getCache("DBCache");
-        return cch;
+	public Cache createCache(){
+		Cache cache = null;
+		try{
+			CacheManager manager = CacheManager.getInstance();
+			manager.addCache("Orgs");
+			cache = manager.getCache("Orgs");
+		} catch (CacheException cacheErr){
+			cacheErr.printStackTrace();
+		} catch (IllegalStateException e){
+			e.printStackTrace();
+		} catch (ClassCastException cce){
+			cce.printStackTrace();
+		}
+		System.out.println("CACHE CREATED");
+        return cache;
 	}
 	
 	private ResultSet query(String sql){
@@ -52,23 +69,35 @@ public class persistentStorage {
 	// Returns org of user
 	public String getOrg(String username){
 		String org = "";
-    	String sql = "select groupName from ofGroupUser where username = \""+username+"\"";
-	    ResultSet rs = this.query(sql);
-	    try{
-		    while(rs.next()){
-		    	org = rs.getString("groupName");
+		// if in cache
+		if (cache.get(username) != null){
+			try{
+				// System.out.println("CACHE HIT");
+				org = cache.get(username).getObjectValue().toString();
+			} catch (CacheException e){
+				e.printStackTrace();
+			}
+    	} else { // else if not in cache 
+    		String sql = "select groupName from ofGroupUser where username = \""+username+"\"";
+		    ResultSet rs = this.query(sql);
+		    try{
+			    while(rs.next()){
+			    	org = rs.getString("groupName");
+			    	cache.put(new Element(username,org));
+			    	// System.out.println("CACHE PUT : "+org);
+			    }
+		    } catch (SQLException se){
+	    		se.printStackTrace();
 		    }
-	    } catch (SQLException se){
-    		se.printStackTrace();
-	    }
-	    this.closeConn(conn,stmt,results);
+		    this.closeConn(conn,stmt,results);  
+		}
     	return org;
 	}
 	
 	// Checks conflict between two orgs
 	public boolean checkConflict(String org1,String org2){
-		 boolean conflict = false;
-	    // Return Org and check all against conflictsWith??
+		boolean conflict = false;
+	    
 	    String sql = "select org from conflict where org = \""+org1+"\" and conflictsWith = \""+org2+"\"";
     	ResultSet rs = this.query(sql);
     	try {

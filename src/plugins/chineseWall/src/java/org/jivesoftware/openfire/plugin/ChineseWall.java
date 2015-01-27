@@ -4,6 +4,7 @@ import java.io.File;
 import java.util.*;
 import java.sql.*;
 import org.xmpp.packet.*;
+import org.xmpp.packet.Message.Type;
 import org.jivesoftware.openfire.container.Plugin;
 import org.jivesoftware.openfire.container.PluginManager;
 import org.jivesoftware.openfire.event.*;
@@ -58,10 +59,10 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
         	String from = fromJID.split("@")[0];
         	String fromOrg = db.getOrg(from);    
         	
-    		System.out.println("Packet from "+fromJID+" to "+toJID);
+    		System.out.println("Packet from "+fromJID+" to "+toJID+", "+toOrg+" to "+fromOrg);
 	    	//check rules    
 	    	if (db.checkConflict(toOrg,fromOrg)){
-	    		//System.out.println("CHINESEWALL : Dropping from "+from+" to "+to+" : "+msg.getBody()+". Reason : "+fromOrg+" conflicts with "+toOrg+".");
+	    		System.out.println("CHINESEWALL : Dropping from "+from+" to "+to+" : "+msg.getBody()+". Reason : "+fromOrg+" conflicts with "+toOrg+".");
 	    		Log.info("Chinese Wall : Packet from "+from+" to "+to+" was intercepted.");
 	    		throw new PacketRejectedException();
 			}
