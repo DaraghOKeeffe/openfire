@@ -6,3 +6,4 @@ For this project, I propose to research and implement a plugin for the Openfire 
 
 Openfire is an Open Source Server that uses the XMPP Protocol for Instant Messaging (also known as Jabber). It is widely used in industry, and has been extended beyond just a simple Instant Messaging service. It now can be used for video messaging, voice chats, file transfers, and other real time interactions. Because of this, information can be shared a lot easier within an organisation, and thus the need for a way to implement a chinese wall is established.  
 
+
