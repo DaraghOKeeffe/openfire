@@ -21,15 +21,16 @@ public class persistentStorage {
 	private Connection conn = null;
 	private Statement stmt = null;
 	private ResultSet results = null;
-	private Cache cache = this.createCache();
+	private Cache orgCache = this.createCache("Orgs");
+	private Cache confCache = this.createCache("Conflicts");
 	
 	// Creates Cache
-	public Cache createCache(){
+	public Cache createCache(String name){
 		Cache cache = null;
 		try{
 			CacheManager manager = CacheManager.getInstance();
-			manager.addCache("Orgs");
-			cache = manager.getCache("Orgs");
+			manager.addCache(name);
+			cache = manager.getCache(name);
 		} catch (CacheException cacheErr){
 			cacheErr.printStackTrace();
 		} catch (IllegalStateException e){
@@ -37,7 +38,7 @@ public class persistentStorage {
 		} catch (ClassCastException cce){
 			cce.printStackTrace();
 		}
-		System.out.println("CACHE CREATED");
+		System.out.println("Cache "+name+" created.");
         return cache;
 	}
 	
@@ -69,21 +70,20 @@ public class persistentStorage {
 	// Returns org of user
 	public String getOrg(String username){
 		String org = "";
-		// if in cache
-		if (cache.get(username) != null){
+		if (orgCache.get(username) != null){	// if in cache
 			try{
 				// System.out.println("CACHE HIT");
-				org = cache.get(username).getObjectValue().toString();
+				org = orgCache.get(username).getObjectValue().toString();
 			} catch (CacheException e){
 				e.printStackTrace();
 			}
-    	} else { // else if not in cache 
+    	} else {	// else if not in cache 
     		String sql = "select groupName from ofGroupUser where username = \""+username+"\"";
 		    ResultSet rs = this.query(sql);
 		    try{
 			    while(rs.next()){
 			    	org = rs.getString("groupName");
-			    	cache.put(new Element(username,org));
+			    	orgCache.put(new Element(username,org));
 			    	// System.out.println("CACHE PUT : "+org);
 			    }
 		    } catch (SQLException se){
@@ -97,19 +97,23 @@ public class persistentStorage {
 	// Checks conflict between two orgs
 	public boolean checkConflict(String org1,String org2){
 		boolean conflict = false;
-	    
-	    String sql = "select org from conflict where org = \""+org1+"\" and conflictsWith = \""+org2+"\"";
-    	ResultSet rs = this.query(sql);
-    	try {
-	    	while(rs.next()){
-	    		if(rs.getString("org") != null){
-	    			conflict = true;
-	    		}
-	    	}
-    	} catch (SQLException se){
-    		se.printStackTrace();
-	   	}
-    	this.closeConn(conn,stmt,results);
+		if(confCache.get(org1) != null && confCache.get(org1).getObjectValue().toString() == org2){
+			conflict = true;
+		} else {
+			String sql = "select org from conflict where org = \""+org1+"\" and conflictsWith = \""+org2+"\"";
+	    	ResultSet rs = this.query(sql);
+	    	try {
+		    	while(rs.next()){
+		    		if(rs.getString("org") != null){
+		    			conflict = true;
+		    			confCache.put(new Element(org1,org2));
+		    		}
+		    	}
+	    	} catch (SQLException se){
+	    		se.printStackTrace();
+		   	}
+	    	this.closeConn(conn,stmt,results);
+		}	    
 	   	return conflict;	    
 	}
 }
