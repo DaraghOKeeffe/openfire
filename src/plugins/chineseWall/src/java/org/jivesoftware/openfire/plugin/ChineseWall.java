@@ -1,6 +1,7 @@
 package org.jivesoftware.openfire.plugin;
 
 import java.io.File;
+import java.util.logging.*;
 import java.util.*;
 import java.sql.*;
 import org.xmpp.packet.*;
@@ -31,24 +32,31 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 	private InterceptorManager interceptorManager;
 	private MUCEventDispatcher MUC;
 	private ChineseWallUtil cw = new ChineseWallUtil();
-	private persistentStorage db = new persistentStorage();
+	//private persistentStorage db = new persistentStorage();
+	private Storage db = new Storage();
+	private int packetCount = 0;
+	double startTime = 0;
 	
 	public void initializePlugin(PluginManager manager, File pluginDirectory) {
         // register with interceptor manager
         Log.info("Chinese Wall Plugin loaded...");
         interceptorManager.addInterceptor(this);
         MUC.addListener(this);
+        //TestStorage test = new TestStorage();
+        //test.start(db);
 	}    
     
     public void destroyPlugin() {
         // unregister with interceptor manager
         interceptorManager.removeInterceptor(this);
         MUC.removeListener(this);
+        Log.info("Packet Count: "+packetCount);
     }
 
 	public void interceptPacket(Packet packet, Session session, boolean incoming, boolean processed) throws PacketRejectedException {    	
-    	Message msg = (Message)packet;
+		Message msg = (Message)packet;
     	if (msg.getType() == Message.Type.chat){
+    		System.out.println("WERGDSDFGSDGFSDFGSDFGSDFG");
     		JID jidTo = packet.getTo();
     		String toJID = jidTo.toBareJID();
             String to = toJID.split("@")[0];
@@ -66,7 +74,19 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 	    		Log.info("Chinese Wall : Packet from "+from+" to "+to+" was intercepted.");
 	    		throw new PacketRejectedException();
 			}
-    	}
+	    }
+    	/*
+    	 * None of this works, doesnt seem to pick up on IQ request
+	    IQ iq = (IQ)packet;
+	    if(iq.getType() == IQ.Type.get){
+	    	System.out.println("GET REQUEST");
+	    }else if (iq.getType() == IQ.Type.result){
+	    	System.out.println("REQUEST RESULT");
+	    }else if (iq.getType() == IQ.Type.error){
+	    	System.out.println("REQUEST ERROR");
+	    }else if (iq.getType() == IQ.Type.set){
+	    	System.out.println("REQUEST SET");
+	    }*/
     }
 	
 	@Override
