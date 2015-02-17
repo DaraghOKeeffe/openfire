@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+import org.jivesoftware.util.Log;
 import net.sf.ehcache.CacheException;
 import net.sf.ehcache.CacheManager;
 import net.sf.ehcache.Element;
@@ -37,7 +37,7 @@ public class Storage {
 		} catch (ClassCastException cce){
 			cce.printStackTrace();
 		}
-		System.out.println("Cache "+name+" created.");
+		Log.info("Cache "+name+" created.");
         return cache;
 	}
 	

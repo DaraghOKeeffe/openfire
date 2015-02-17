@@ -55,7 +55,11 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 
 	public void interceptPacket(Packet packet, Session session, boolean incoming, boolean processed) throws PacketRejectedException {    	
 		Message msg = (Message)packet;
-		
+		/*try{
+			Presence pres = (Presence)packet;
+		}catch(ClassCastException e){
+			e.printStackTrace();
+		}*/
     	if (msg.getType() == Message.Type.chat){
     		JID jidTo = packet.getTo();
     		String toJID = jidTo.toBareJID();
@@ -73,9 +77,12 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 	    		System.out.println("CHINESEWALL : Dropping from "+from+" to "+to+" : "+msg.getBody()+". Reason : "+fromOrg+" conflicts with "+toOrg+".");
 	    		Log.info("Chinese Wall : Packet from "+from+" to "+to+" was intercepted.");
 	    		throw new PacketRejectedException();
+	    		
 			}
 	    } 
     }
+	
+	// @TODO Intercept Presence Packets and stop from passing	
 	
 	// Check on join so they can't sit and watch messages being exchanged
 	@Override
