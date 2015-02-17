@@ -55,7 +55,6 @@ public class ChineseWallUtil {
 		MUCRole role = null;
 		Collection <MUCRole> occupants = room.getOccupants();
 		for(MUCRole occupant : occupants){
-			System.out.println(nick+" == "+occupant.getNickname());
 			if(nick == occupant.getNickname()){
 				role = occupant;
 			}
