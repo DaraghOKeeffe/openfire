@@ -1,158 +1,81 @@
-<%@ page errorPage="/error.jsp" import="org.jivesoftware.openfire.plugin.ChineseWall" %>
-<%@ page import="org.jivesoftware.openfire.plugin.spark.Bookmark" %>
-<%@ page import="org.jivesoftware.openfire.plugin.spark.BookmarkManager" %>
-<%@ page import="org.jivesoftware.util.Log" %>
-<%@ page import="org.jivesoftware.openfire.XMPPServer" %>
-<%@ page import="org.jivesoftware.openfire.muc.MUCRoom" %>
-<%@ page import="org.jivesoftware.openfire.muc.MultiUserChatService" %>
-<%@ page import="java.util.Collection" %>
-<%@ taglib uri="http://java.sun.com/jstl/core_rt" prefix="c" %>
-<%@ taglib uri="http://java.sun.com/jstl/fmt_rt" prefix="fmt" %>
-
-
-<%
-    // Header stuff goes here
+<%@ page import="java.util.*,
+				 org.jivesoftware.openfire.group.*,
+				 org.jivesoftware.openfire.group.GroupManager,
+                 org.jivesoftware.openfire.XMPPServer,
+                 org.jivesoftware.openfire.user.*,
+				 org.jivesoftware.openfire.plugin.ChineseWall,
+				 org.jivesoftware.openfire.plugin.Storage,
+                 org.jivesoftware.util.*,
+                 
+                 java.sql.Connection,
+                 java.sql.DriverManager,
+                 java.sql.ResultSet,
+                 java.sql.SQLException,
+                 java.sql.Statement"
 %>
-
-
 <html>
-<head>
-    <title><fmt:message key="bookmark.delete.confirm" /></title>
-    <meta name="pageID" content="<%= bookmark.getType() == Bookmark.Type.group_chat ? "groupchat-bookmarks" : "url-bookmarks"%>"/>
-    <script type="text/javascript">
-    </script>
-    <style type="text/css">
-
-        .field-label {
-            font-size: 11px;
-            font-weight: bold;
-        }
-
-        .field-text {
-            font-size: 12px;
-            font-family: verdana;
-        }
-
-        .div-border {
-            border: 1px;
-            border-color: #ccc;
-            border-style: dotted;
-        }
-
-
-    </style>
-    <style type="text/css">
-        @import "style/style.css";
-    </style>
-</head>
-
-<body>
-
-<!-- Create URL Bookmark -->
-<p>
-    <fmt:message key="bookmark.delete.confirm.prompt" />
-</p>
-
-
-<% // Really need to revise JSP...
-if (bookmark.getType() == Bookmark.Type.url) { %>
-<form name="urlForm" action="confirm-bookmark-delete.jsp" method="post">
-    <table class="div-border">
-        <tr valign="top">
-            <td><b><fmt:message key="bookmark.delete.url.urlname" /></b></td>
-            <td><%= bookmark.getName()%>
-        </tr>
-        <tr valign="top">
-            <td><b><fmt:message key="bookmark.delete.url.url" /></b></td>
-            <td><%= bookmark.getValue()%></td>
-        </tr>
-        <tr valign="top">
-            <td><b><fmt:message key="bookmark.delete.url.users" /></b></td>
-            <td><%= bookmark.getUsers()%>
-        </tr>
-        <tr valign="top">
-            <td><b><fmt:message key="bookmark.delete.url.groups" /></b></td>
-            <td><%= bookmark.getGroups()%>
-        </tr>
-        <tr><td></td>
-            <td>
-                <input type="submit" name="delete" value="<fmt:message key="bookmark.delete.url.submit" />"/>&nbsp;
-                <input type="button" value="<fmt:message key="bookmark.delete.url.cancel" />"
-                       onclick="window.location.href='url-bookmarks.jsp'; return false;">
-            </td>
-        </tr>
-
-    </table>
-    <input type="hidden" name="bookmarkID" value="<%= bookmarkID%>"/>
-</form>
-
-<% }
-else { %>
-
-<form name="f" action="confirm-bookmark-delete.jsp" method="post">
-
-    <table class="div-border" width="50%">
-        <tr valign="top">
-            <td><b><fmt:message key="bookmark.delete.chat.groupname" /></b></td>
-            <td class="field-text"><%= bookmark.getName()%></td>
-        </tr>
-        <tr valign="top">
-            <td><b><fmt:message key="bookmark.delete.chat.address" /></b></td>
-            <td class="field-text"><%= bookmark.getValue()%>
-        </tr>
-        <tr valign="top">
-            <td><b><fmt:message key="bookmark.delete.chat.users" /></b></td>
-            <td class="field-text"><%= bookmark.isGlobalBookmark() ? "ALL" : getCommaDelimitedList(bookmark.getUsers(), 5)%></td>
-        </tr>
-
-        <tr valign="top">
-            <td><b><fmt:message key="bookmark.delete.chat.groups" /></b></td>
-            <td class="field-text"><%= bookmark.isGlobalBookmark() ? "ALL" : getCommaDelimitedList(bookmark.getGroups(), 5) %></td>
-        </tr>
-        <tr>
-            <td><b><fmt:message key="bookmark.delete.chat.autojoin" /></b></td>
-            <td><%= bookmark.getProperty("autojoin") != null ? "<img src='/images/check.gif'>" : "&nbsp;"%></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>
-                <input type="submit" name="delete" value="<fmt:message key="bookmark.delete.chat.submit" />">
-                <input type="button" value="<fmt:message key="bookmark.delete.chat.cancel" />"
-                       onclick="window.location.href='groupchat-bookmarks.jsp'; return false;">
-        </td>
-        </tr>
-
-    </table>
-    <input type="hidden" name="bookmarkID" value="<%= bookmarkID%>"/>
-</form>
-<% } %>
-</body>
+  	<head>
+    	<title>Chinese Wall Administration</title>
+		<meta name="pageID" content="ChineseWall"/>
+   	</head>
+   	<body>
+   	<%	if (request.getParameter("firstgroup") != null){
+   			out.println("Conflict between "+request.getParameter("firstgroup")+" and "+request.getParameter("secondgroup")+" has been added.<br><br>");
+   			updateTable(request.getParameter("firstgroup"),request.getParameter("secondgroup"));
+   		}
+   	%>
+   		<b><i>Users can be added to groups under the "Users/Groups" tab</i></b><br><br>
+   		Please Enter conflicting groups below.<br><br>
+    	<form action="chinesewall.jsp">
+    	
+    		<% 
+    			GroupManager groupManager=GroupManager.getInstance();
+    			Collection<Group> groups = groupManager.getGroups();
+    		 %>
+    		
+    		
+			First Group: <select name="firstgroup">
+						 	<%  for(Group group:groups){
+						 			out.println("<option value=\""+group+"\">"+group+"</option>");
+						 		} 
+							%>
+						 </select>
+			<br><br>
+			Second Group:<select name="secondgroup">
+						 	<%  for(Group group:groups){
+						 			out.println("<option value=\""+group+"\">"+group+"</option>");
+						 		} 
+							%>
+						 </select>
+			<br><input type="submit" value="Submit">
+		</form>
+   </body>
 </html>
-
 <%!
-    /**
-     * A more elegant string representing all users that this bookmark
-     * "belongs" to.
-     *
-     * @return the string.
-     */
-    public String getCommaDelimitedList(Collection<String> strings, int limit) {
-        int counter = 0;
-        StringBuilder buf = new StringBuilder();
-        for (String string : strings) {
-            buf.append(string);
-            buf.append(",");
-            counter++;
-            if (counter >= limit) {
-                break;
-            }
-        }
-
-        String returnStr = buf.toString();
-        if (returnStr.endsWith(",")) {
-            returnStr = returnStr.substring(0, returnStr.length() - 1);
-        }
-        return returnStr;
-    }
-
+	public boolean updateTable(String first, String second){
+		String JDBC_DRIVER = "com.mysql.jdbc.Driver";
+		String DB_URL = "jdbc:mysql://localhost:3306/openfire";
+		String USER = "root";
+		String PASS = "openfire123";
+		Connection conn = null;
+		Statement stmt = null;
+		Boolean results = null;
+		String sql1 = "INSERT INTO conflict (org,conflictsWith) VALUES (\""+first+"\",\""+second+"\")"; 
+		String sql2 = "INSERT INTO conflict (org,conflictsWith) VALUES (\""+second+"\",\""+first+"\")"; 
+		
+		try{
+			Class.forName(JDBC_DRIVER);
+	    	conn = DriverManager.getConnection(DB_URL,USER,PASS);
+	    	stmt = conn.createStatement();
+	    	stmt.execute(sql1);
+	    	results = stmt.execute(sql2);
+		} catch (SQLException se){
+    		se.printStackTrace();
+    		return false;
+    	} catch (Exception e){
+    		e.printStackTrace();
+    		return false;
+    	}
+		return results;
+	}
 %>

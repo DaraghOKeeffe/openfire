@@ -15,7 +15,12 @@
     <licenseType>gpl</licenseType>
 
     <!-- Admin console entries -->
-    <adminconsole>
-        <!-- More on this below -->
+    <adminconsole>		
+        <tab id="tab-server">
+            <sidebar id="sidebar-server-settings">
+                <item id="CW" name="ChineseWall" url="chinesewall.jsp"
+                     description="Click to manage Chinese Wall" />
+            </sidebar>
+        </tab>
     </adminconsole>
 </plugin>
