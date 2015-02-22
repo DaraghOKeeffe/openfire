@@ -71,7 +71,6 @@ public class Storage {
 		String org = "";
 		if (orgCache.get(username) != null){	// if in cache
 			try{
-				//System.out.println("CACHE HIT");
 				org = orgCache.get(username).getObjectValue().toString();
 			} catch (CacheException e){
 				e.printStackTrace();
@@ -83,7 +82,6 @@ public class Storage {
 			    while(rs.next()){
 			    	org = rs.getString("groupName");
 			    	orgCache.put(new Element(username,org));
-			    	//System.out.println("CACHE PUT : "+username +","+org+".");
 			    }
 		    } catch (SQLException se){
 	    		se.printStackTrace();
@@ -97,7 +95,6 @@ public class Storage {
 	public boolean checkConflict(String org1,String org2){
 		boolean conflict = false;
 		if(confCache.get(org1) != null && confCache.get(org1).getObjectValue().toString() == org2){
-			//System.out.println("CACHEHIT");
 			conflict = true;
 		} else {
 			String sql = "select org from conflict where org = \""+org1+"\" and conflictsWith = \""+org2+"\"";

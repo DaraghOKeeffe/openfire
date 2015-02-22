@@ -32,7 +32,6 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 	private InterceptorManager interceptorManager;
 	private MUCEventDispatcher MUC;
 	private ChineseWallUtil cw = new ChineseWallUtil();
-	//private persistentStorage db = new persistentStorage();
 	private Storage db = new Storage();
 	private int packetCount = 0;
 	double startTime = 0;
@@ -55,11 +54,6 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
 
 	public void interceptPacket(Packet packet, Session session, boolean incoming, boolean processed) throws PacketRejectedException {    	
 		Message msg = (Message)packet;
-		/*try{
-			Presence pres = (Presence)packet;
-		}catch(ClassCastException e){
-			e.printStackTrace();
-		}*/
     	if (msg.getType() == Message.Type.chat){
     		JID jidTo = packet.getTo();
     		String toJID = jidTo.toBareJID();
