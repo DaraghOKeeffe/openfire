@@ -56,6 +56,19 @@ public class Storage {
 		return results;
 	}
 	
+	private void update(String sql){
+		try{
+			Class.forName("com.mysql.jdbc.Driver");
+	    	conn = DriverManager.getConnection(DB_URL,USER,PASS);
+	    	stmt = conn.createStatement();
+	    	stmt.executeUpdate(sql);
+		} catch (SQLException se){
+    		se.printStackTrace();
+    	} catch (Exception e){
+    		e.printStackTrace();
+    	}
+	}
+	
 	private void closeConn (Connection conn, Statement stmt, ResultSet results){
 		try {
 			results.close();
@@ -112,5 +125,60 @@ public class Storage {
 	    	this.closeConn(conn,stmt,results);
 		}	    
 	   	return conflict;	    
+	}
+	
+	public boolean isTransitive(String org){
+		boolean transitive = false;
+		String sql = "select transitive from ofGroup where groupName = \""+org+"\"";
+    	ResultSet rs = this.query(sql);
+    	try {
+	    	while(rs.next()){
+	    		if(rs.getBoolean("transitive") == true ){
+	    			transitive = true;
+	    		}
+	    	}
+    	} catch (SQLException se){
+    		se.printStackTrace();
+	   	}
+    	this.closeConn(conn,stmt,results);
+    	return transitive;
+	}	    
+	
+	public void updateConflict(String org1, String org2){
+		// Get all orgs that conflict with org1
+		// Returns AIB This time
+		String sql1 = "select org, conflictsWith from conflict where org = \""+org1+"\"";
+		String sql2 = "select org, conflictsWith from conflict where conflictsWith = \""+org1+"\"";
+    	ResultSet rs1 = this.query(sql1);
+    	ResultSet rs2 = this.query(sql2);
+    	ResultSet updated = null;
+    	try {
+	    	while(rs1.next()){
+	    		
+	    		// If org and conflictsWith are different
+	    		if(!(rs1.getString("org").equals(org2))){
+	    			System.out.println("org1:"+org1);
+	    			System.out.println("org2:"+org2);
+	    			String checkOrg = rs1.getString("conflictsWith");
+	    			System.out.println("CheckOrg:"+checkOrg);
+	    			System.out.println("originalOrg:"+rs1.getString("org"));
+	    			// Check that conflicts are not in DB already
+	    			if(this.checkConflict(org2,checkOrg) || (org2.equals(checkOrg))){
+	    				System.out.println("Exists Already");
+	    			} else {
+	    				System.out.println("Adding to conflicts");
+	    				String update1 = "Insert into conflict (org, conflictsWith) values (\""+org2+"\",\""+checkOrg+"\")";
+		    			//System.out.println(update1);
+	    				this.update(update1);
+		    			String update2 = "Insert into conflict (org, conflictsWith) values (\""+checkOrg+"\",\""+org2+"\")";
+		    			//System.out.println(update2);
+		    			this.update(update2);	    			}
+	    		}
+	    	}
+    	} catch (SQLException se){
+    		se.printStackTrace();
+	   	}
+    	
+   	
 	}
 }

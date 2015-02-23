@@ -67,12 +67,21 @@ public class ChineseWall implements Plugin, PacketInterceptor, MUCEventListener 
         	
     		System.out.println("Packet from "+fromJID+" to "+toJID+", "+toOrg+" to "+fromOrg);
 	    	//check rules    
+    		if(db.isTransitive(toOrg)){
+	    		// Update Tables
+	    		db.updateConflict(toOrg,fromOrg);
+	    	}
+	    	if(db.isTransitive(fromOrg)){
+	    		// Update Tables
+	    		db.updateConflict(fromOrg,toOrg);
+	    	}
 	    	if (db.checkConflict(toOrg,fromOrg)){
 	    		System.out.println("CHINESEWALL : Dropping from "+from+" to "+to+" : "+msg.getBody()+". Reason : "+fromOrg+" conflicts with "+toOrg+".");
 	    		Log.info("Chinese Wall : Packet from "+from+" to "+to+" was intercepted.");
 	    		throw new PacketRejectedException();
 	    		
 			}
+	    	
 	    } 
     }
 	
