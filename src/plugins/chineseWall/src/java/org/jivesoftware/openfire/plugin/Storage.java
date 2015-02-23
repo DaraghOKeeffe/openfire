@@ -154,31 +154,24 @@ public class Storage {
     	ResultSet updated = null;
     	try {
 	    	while(rs1.next()){
-	    		
+	    		String checkOrg = rs1.getString("conflictsWith");
 	    		// If org and conflictsWith are different
 	    		if(!(rs1.getString("org").equals(org2))){
-	    			System.out.println("org1:"+org1);
-	    			System.out.println("org2:"+org2);
-	    			String checkOrg = rs1.getString("conflictsWith");
-	    			System.out.println("CheckOrg:"+checkOrg);
-	    			System.out.println("originalOrg:"+rs1.getString("org"));
+	    			
 	    			// Check that conflicts are not in DB already
 	    			if(this.checkConflict(org2,checkOrg) || (org2.equals(checkOrg))){
 	    				System.out.println("Exists Already");
 	    			} else {
 	    				System.out.println("Adding to conflicts");
 	    				String update1 = "Insert into conflict (org, conflictsWith) values (\""+org2+"\",\""+checkOrg+"\")";
-		    			//System.out.println(update1);
 	    				this.update(update1);
 		    			String update2 = "Insert into conflict (org, conflictsWith) values (\""+checkOrg+"\",\""+org2+"\")";
-		    			//System.out.println(update2);
-		    			this.update(update2);	    			}
+		    			this.update(update2);	    		
+		    		}
 	    		}
 	    	}
     	} catch (SQLException se){
     		se.printStackTrace();
-	   	}
-    	
-   	
+	   	}	
 	}
 }
