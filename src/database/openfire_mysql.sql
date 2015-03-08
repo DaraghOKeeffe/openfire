@@ -84,6 +84,7 @@ CREATE TABLE ofVCard (
 CREATE TABLE ofGroup (
   groupName             VARCHAR(50)     NOT NULL,
   description           VARCHAR(255),
+  transative		BOOLEAN		NOT NULL,
   PRIMARY KEY (groupName)
 );
 

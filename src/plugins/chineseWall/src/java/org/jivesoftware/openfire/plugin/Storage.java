@@ -127,6 +127,28 @@ public class Storage {
 	   	return conflict;	    
 	}
 	
+	// Checks conflict between two orgs
+	public boolean groupCheckConflict(String org1,String org2){
+		boolean conflict = false;
+		if(confCache.get(org1) != null && confCache.get(org1).getObjectValue().toString() == org2){
+			conflict = true;
+		} else {
+			String sql = "select org from conflict where org = \""+org1+"\" and conflictsWith = \""+org2+"\"";
+	    	ResultSet rs = this.query(sql);
+	    	try {
+		    	while(rs.next()){
+		    		if(rs.getString("org") != null){
+		    			conflict = true;
+		    			confCache.put(new Element(org1,org2));
+		    		}
+		    	}
+	    	} catch (SQLException se){
+	    		se.printStackTrace();
+		   	}
+	    	//this.closeConn(conn,stmt,results);
+		}	    
+	   	return conflict;	    
+	}
 	public boolean isTransitive(String org){
 		boolean transitive = false;
 		String sql = "select transitive from ofGroup where groupName = \""+org+"\"";
@@ -159,7 +181,7 @@ public class Storage {
 	    		if(!(rs1.getString("org").equals(org2))){
 	    			
 	    			// Check that conflicts are not in DB already
-	    			if(this.checkConflict(org2,checkOrg) || (org2.equals(checkOrg))){
+	    			if(this.groupCheckConflict(org2,checkOrg) || (org2.equals(checkOrg))){
 	    				System.out.println("Exists Already");
 	    			} else {
 	    				System.out.println("Adding to conflicts");
